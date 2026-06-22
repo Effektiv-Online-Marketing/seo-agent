@@ -1,0 +1,40 @@
+# === Secrets / Credentials (NIEMALS committen) ===
+.gws/client_secret.json
+.gws/credentials.enc
+.gws/token_cache.json
+.gws/cache/
+.gws/tmp/
+.gws_tmp/
+*.enc
+*token*.json
+client_secret*.json
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# === Obsidian (lokale Workspace-/UI-Configs) ===
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# === macOS ===
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# === Temp / Scratch ===
+*.tmp
+*.log
+download.html
+Unbenannt*.canvas
+
+# === Editor ===
+.vscode/
+.idea/
+*.swp
