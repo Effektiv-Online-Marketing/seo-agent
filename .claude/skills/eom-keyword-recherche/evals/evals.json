@@ -1,0 +1,23 @@
+{
+  "skill_name": "eom-keyword-recherche",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "mach eine kwr für NIBE zur monoblock wärmepumpe und speicher alles wie immer",
+      "expected_output": "Der Agent liest den EOM- und NIBE-Kontext, besteht auf Live-Sistrix, erstellt gebrandeten Sheet, Google Doc und lokale Vault-Notiz im Standardformat.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "ich brauche für HERMA eine keyword recherche zu etikettendrucker, bitte in unsere vorlage und sauber dokumentieren",
+      "expected_output": "Der Agent nutzt den allgemeinen EOM-KWR-Workflow, lädt den HERMA-Kontext, arbeitet mit Live-Sistrix und erzeugt Sheet, Doc und Vault-Notiz.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "mach mal schnell eine keyword recherche für ENSECUR zu microsoft copilot datenschutz, wenn sistrix nicht geht nimm halt was anderes",
+      "expected_output": "Der Agent lehnt den Fallback ab, stoppt bei fehlendem Live-Sistrix und erklärt klar, dass ohne echte Sistrix-Daten keine KWR erstellt wird.",
+      "files": []
+    }
+  ]
+}

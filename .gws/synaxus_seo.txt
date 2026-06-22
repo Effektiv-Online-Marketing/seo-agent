@@ -1,0 +1,212 @@
+SEO ANALYSE
+EOM für synaxus.de 23.10.2024
+
+INHALT
+IST-Stand
+Technische Analyse
+Redaktionelle Optimierung
+
+2
+
+IST-ANALYSE
+01
+
+SICHTBARKEIT IM GOOGLE-INDEX
+4
+Aktueller Sichtbarkeitsindex beträgt 0,0002. Höchstwert am 11.11.2019 mit 0,0061.Sichtbarkeitsindex = Organische Rankings nach Suchvolumen + Keywords gewichtet. 
+Seit März 2022 hat synaxus.de eine starke negative Entwicklung in der Sichtbarkeit.
+In der SUBLINE die Erkenntnis des Charts eintragenCHART: Entweder SI oder Entwicklung der Keywords. Je nachdem, in welchem Bereich die Entwicklung deutlicher ist. Bitte Chart nur so groß, wie wie das Textfeld
+
+VERGLEICH MIT SEO-WETTBEWERBERN
+5
+atvisio.de, novofactum.de & bdg-solutions.de haben eine höhere Sichtbarkeit bei Google.
+In der SUBLINE die Erkenntnis des Charts eintragenWichtig: Nur identische Unternehmen vergleichen (Größe/Umsatz/Geschäftsmodell). Hier würde ein Vergleich mit DRK, Malteser, Johanniter usw. keinen Sinn machen, weil deutlich Größer und breiteres Angebot. CHART: Entweder SI oder Entwicklung der Keywords. Je nachdem, in welchem Bereich die Entwicklung deutlicher ist. 
+
+ANZAHL VON TOP-10 und TOP-100 Keywords 
+Die rankenden Keywords in den ersten 10 Suchergebnissen sind von 36 auf 23 seit April 2022 bis heute gesunken.
+6
+BizDev: Von Schätzungen sprechen, da nicht jedes Tool alle Keywords hat, Sistrix jedoch Branchenführer ist. 
+Chartgröße = Textfeldgröße
+Möglichst mit Zahlen arbeiten
+
+Standard-Slide
+
+synaxus.de ist aktuell kaum bei Google sichtbar.
+Die SEO-Mitbewerber atvisio.de, novofactum.de und bdg-solutions.de haben in dem Zeitraum der letzten 5 Jahre mehr Sichtbarkeit. 
+Aktuell ranken 23 Keywords auf der ersten Seite der Google Suchergebnisse.
+SUMMARY
+7
+Einfach die vergangenen Folie noch mal festhalten, maximal 3 Punkte. 
+
+TECHNISCHE ANALYSE
+02
+NUR grobe Fehler aus Sistrix Optimizer und Screaming Frog + Site-Abfrage (für plakative, reale Bespiele). Im idealen Fall haben wir auch Zugriff zur Google Search Console @BizDev
+Checks:
+
+Weiterleitung www und nicht www. http und https, mit und ohne Slash am Ende
+Nutzung von Canonicalised URls mit Noindex oder disallow
+Subdomains prüfen
+404 Fehler
+Interne Verlinkungen
+Nahduplikate (SF) + Doppelte Titles
+sitemap checken, ob fehelerhafte URLs vorhanden
+Korrekte Verwendung von Canonicals checken, also z.B. bei Parameter URLs
+korrekte Verwendung hreflang
+weiterleitungsketten
+struk. daten prüfen ob vorhanden und wenn ja, ob fehler
+Page Speed
+robots.txt Regeln checken
+
+
+404 FEHLERSEITEN
+Intern verlinkte Seiten auf synaxus.de sind nicht auffindbar und geben den Statuscode 404 (“Not found)” zurück. 
+Solche internen Links auf defekte Seiten müssen korrigiert werden, da sie sowohl für Suchmaschinen als auch Benutzer ein negatives Signal darstellen.
+
+Intern verlinkte Fehlerseiten
+9
+Screenshot aus Sistrix Optimizer
+
+INTERNE LINKS MIT WEITERLEITUNGEN
+Die folgenden Seiten haben eingehende interne Verlinkungen, obwohl diese weitergeleitet werden. Um die Linkpower an die richtige und indexierbare Seite zu übergeben, sollte dies behoben werden.
+Aktuell verweisen interne Verlinkungen auf eine 301-Weiterleitungen 
+10
+Standard-Slide: Externe fehlerhafte Links hat fast jede Domain
+
+DEFEKTE EXTERNE LINKS
+Das bestehende Backlinkprofil optimieren und externe Links auf 404-Seiten verwerten, durch 301 Weiterleitungen auf relevante Seiten. Aktuell keine Vererbung.
+Aktuell verweisen viele Backlinks auf 404-Fehlerseiten
+11
+Standard-Slide: Externe fehlerhafte Links hat fast jede Domain
+
+Einfache Rankingfaktoren wie interne Verlinkungen auf 404 Seiten sollten vermieden werden.
+Interne Verlinkungen sollten auf die finale URL verlinkt werden, damit die Linkpower an die richtige Seite weitergegeben wird.
+Backlinks und ein gepflegtes Linkprofil gehören zu den wichtigsten Faktoren und sollten regelmäßig überprüft und korrigiert werden (301 redirects). 
+SUMMARY
+12
+
+REDAKTIONELLE OPTIMIERUNG
+03
+Checks:
+
+Seiten mit wenig Inhalt
+Seiten mit gleichem/sehr ähnlichen Inhalt
+
+
+DUPLICATE CONTENT VERMEIDEN
+14
+Indexierbare Seiten mit Duplicate Content beeinflussen das Ranking negativ, da Google die bevorzugte Seite nicht eindeutig erkennen kann.
+Beispiel für Duplicate Content:
+https://synaxus.de/ihr-weg-aus-der-excel-falle/
+https://synaxus.de/technologien/jedox/whitepaper_jedox_excel/
+https://synaxus.de/category/jedox/
+https://synaxus.de/tag/automatisierung/
+https://synaxus.de/tag/excel/ 
+Duplicate Content führt zu Ranking-Problemen
+Analyse und grobe Einschätzung des Contents (wichtig dabei, dass wir die komplette Customer Journey betrachten, von der 1. Recherche bis zum Abschluss)
+
+https://optimizer.sistrix.com/board/board/type/projectissues/project/sP7IKe4x7Cmz7Esc/issue/same_h1
+
+RELEVANZ DURCH CONTENT SCHAFFEN
+15
+Aktuell sind die relevanten Landingpages nur wenig auf die Suchintention des Nutzers ausgerichtet, da generische Keywords als H1-Überschrift verwendet werden. 
+
+Es gibt einige Seiten mit Duplicate Content. Dies führt dazu, dass Google die richtige Seite nur schwer identifizieren kann und die Seiten sich kannibalisieren.
+
+Empfehlung: Nachoptimierung des Contents für die Zielgruppen und Deindexierung von Duplicate Content für nachhaltige Skalierung der Sichtbarkeit sowie Leads. 
+Skalierbare Reichweite über die organischen Suchergebnisse
+Analyse und grobe Einschätzung des Contents (wichtig dabei, dass wir die komplette Customer Journey betrachten, von der 1. Recherche bis zum Abschluss)
+
+QUICK-WINS: METAS
+16
+Aktuell werden im Meta-Titel nicht die möglichen Zeichen ausgeschöpft. Darüber hinaus fehlen die Meta-Descriptions, sodass Google diese frei von der Website wählt. 
+
+
+
+
+Empfehlung: Keyword-Recherche und Überarbeitung der Metas.
+Skalierbare Reichweite über Meta-Titel & -Description
+Analyse und grobe Einschätzung des Contents (wichtig dabei, dass wir die komplette Customer Journey betrachten, von der 1. Recherche bis zum Abschluss)
+
+ISTSOLL 
+FALLBEISPIEL: ”Data Analytics”
+Empfehlung: Fokus auf Unternehmen anpassen und Leistung herausstellen.
+17
+Ein Beispiel aus den Schwellenkeywords nehmen und ein IST + SOLL Stand aus einem SERP Simulator kopieren z. B. mit https://app.sistrix.com/de/serp-snippet-generator 
+
+Die Website synaxus.de vefügt über  wenig optimierten und Duplicate Content.
+Skalierung über neuen, zielgruppengerechten, Content (Blog-Beiträge) möglich. 
+“Quick Wins” vorhanden in Form von Meta-Daten.
+SUMMARY
+18
+
+Unser strategischer Ansatz für synaxus.de
+
+19
+
+20
+Optimierung der SEO-Basics (Keyword Research, Update Meta-Tags, Content Marketing, Duplikate, Internal Links usw.) 
+Technical SEO: Optimierung der Verlinkungen, Begleitung techn. Maßnahmen.
+Skalierung: Optimierung der Usability (Conversion-Rate), Content entlang der Customer Journey, Analyse und Anpassung hinsichtlich der Search intent.
+Sollte angepasst werden, passt jedoch auch fast überall
+
+EOM
+
+Unabhängig davon, ob es um Strategie, Analyse oder praktische Umsetzung geht – EOM zeichnet sich durch seine Fähigkeit aus, sich perfekt auf jedes Projekt einzulassen, die passenden Schritte einzuleiten und einen herausragenden Mix aus Fachwissen, Erfahrung sowie Leidenschaft für die Zielerreichung zu bieten.
+Florian Hessinger Google Teamlead
+22
+
+EOM FAKTEN
+Gründung 2009 in Hannover
+2. Standort 2015 in Stuttgart
+30 Spezialist*Innen an 2 Standorten & remote
+Beständigkeit und Zuverlässigkeit: Mit durchschnittlich über zehn Jahren pro  Kundenprojekt übertreffen wir die branchenüblichen Standards. 
+23
+
+EOM Ansatz
+Wir unterstützen unsere Partner ganzheitlich im Online-Marketing: von der strategischen Beratung über die operative Umsetzung bis hin zu messbaren Ergebnissen.
+
+LANGJÄHRIGE PARTNERSCHAFTEN
+Wir tauchen in Markt und Produkte ein und nutzen unsere Kreativität und Erfahrung, um das perfekte Online-Marketing Setting zu entwickeln und fortlaufend zu optimieren. 
+Bei folgenden Kernleistungen können wir auch dich unterstützen:
+Search Marketing (SEO & Ads)
+Social Media Ads 
+Usability und Conversion-Rate-Optimierung 
+Business-Intelligence und Web-Analytics
+Ganzheitliche Strategien und Auditing
+
+25
+
+WARUM EOM?
+Skalierbare Betreuung, messbare Ergebnisse. 
+Langjährige Erfahrung
+Transparente Arbeitsweise
+Zielorientierte Betreuung
+
+KONTAKT
+27
+
+KONTAKT
+Roxeanne RieckHead of Operations
+Mail: Telefon: 
+kontakt@eom.de0511 / 390 60 104
+Termin buchen
+Für Fragen und Beratung stehen wir euch gerne zur Verfügung.
+28
+100 % unverbindlich & kostenlos
+Bilder der Ansprechpartner einfügen: 
+Bild einfügen 
+Klick auf Bild zuschneiden
+Über das Auswahlfeld beim Zuschneiden > Formen > Kreis auswählen 
+der Kreis kann nun größer oder kleiner gemacht werden → wichtig: Umschalt-Taste gedrückt halten, sodass der Kreis auch wirklich rund bleibt
+
+
+EOM – Effektiv Online-Marketing GmbH
+eom.de/agency 
+
+
+Kontakt Nord:
+Bödekerstraße 85 in 30161 Hannover      hannover@eom.de | 0511 / 390 60 100
+
+Kontakt Süd: 
+Seelbergstraße 4 in 70372 Stuttgart stuttgart@eom.de | 0711 / 21 959 130 
+

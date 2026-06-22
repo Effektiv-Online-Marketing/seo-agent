@@ -51,5 +51,33 @@ EOM betreut SEO-Mandate für Mittelstand und Konzerne im DACH-Raum (z. B. NIBE, 
 - **Kontext bei Bedarf:** letzte 2–3 Daily Notes + aktive Kunden-Dateien lesen, Briefing geben.
 - **Ende:** anbieten — Daily Note, neue Erkenntnisse speichern, Inbox aufräumen.
 
+## Drive-Ablage (Outputs / Deliverables)
+**Alle fertigen Deliverables (Google Docs, Sheets, Slides) gehören in den zentralen Drive-Ordner:**
+`https://drive.google.com/drive/folders/1wIAbiC48F_VD4Bnf5n_5mGhrUDJhMnpT` (Account `ben@eom.de`).
+
+Ablage-Logik:
+1. **Kundenordner** im Basisordner suchen/anlegen (z. B. `NIBE` = `179w6ZVYAX5_mxbAalZZ7_F6bRFB8-mSG`).
+2. Darunter **Gewerk-Unterordner** anlegen, falls nicht vorhanden (z. B. `On-Page`, `Technik`, `Off-Page`, `Reporting`, `Strategie`).
+3. Doc im passenden Unterordner anlegen, Benennung im EOM-Stil (`NIBE | <Doc-Typ> – <Thema>`).
+
+Die Vault-Notiz (`02 Kunden/<Kunde>/…`) bleibt die lokale Arbeits-/Wissensfassung; das Google Doc ist die abgabefähige Kollaborationsfassung. **Zu JEDEM Drive-Deliverable gehört auch eine lokale `.md`-Fassung im Vault.**
+
+### Vorlage & Schrift (PFLICHT)
+- **Immer die EOM-Doc-Vorlage als Basis** kopieren (nicht leer anlegen): `1IKD7nruTswvy3-AD8Uk63RpmkPIglgXCs2dE7o6CGqM` („01 EOM Agency Vorlage Word", enthält EOM-Branding + Kopf-/Fußzeile + Montserrat in allen Stilen).
+- **Schrift IMMER Montserrat** — bei jedem Doc, Sheet und Slide.
+- **Workflow:** Vorlage per Drive `copy_file` in den Zielordner kopieren → Inhalt per `gws docs documents batchUpdate` einfügen (Heading-Stile via `namedStyleType`, Montserrat per `weightedFontFamily` über den ganzen Bereich erzwingen). gws-Aufruf nur mit `GOOGLE_WORKSPACE_CLI_CONFIG_DIR="$HOME/Desktop/brain/.gws"`.
+- Reiner Text-Upload überträgt **kein** Farb-Markup (Grün/Gelb) — das im Doc manuell setzen.
+
+**Typografie (PFLICHT, alles Montserrat):**
+| Ebene | Schrift | Größe |
+|---|---|---|
+| Titel | Montserrat Medium (500) | 26 |
+| H1 | Montserrat Medium (500) | 16 |
+| H2 | Montserrat Medium (500) | 14 |
+| H3 | Montserrat Medium (500) | 12 |
+| Fließtext | Montserrat | 12 |
+
+Die Named Styles der Vorlage `1IKD7…` haben Titel/H1–H3 bereits korrekt (Medium 26/16/14/12). **Aber:** der NORMAL_TEXT-Default der Vorlage ist 11/Light — Fließtext daher beim Befüllen explizit auf **Größe 12** setzen (`fontSize` 12 PT via `updateTextStyle`). Überschriften/Titel einfach per `namedStyleType` (TITLE/HEADING_1/2/3) zuweisen, dann stimmen Größe + Gewicht automatisch.
+
 ## Sync (späterer Schritt)
 Sobald GitHub steht: vor der Arbeit `git pull`, danach `git push`.

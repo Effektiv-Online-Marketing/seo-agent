@@ -1,0 +1,115 @@
+﻿Ziele
+* Hauptziele sind Conversions und Leads (Basiert auf der der übergeordneten Legamaster Vertriebsstrategie)
+* Müssen bei den Zielen aber unterscheiden in die digitalen und die klassischen Produkte
+* Bei klassischen Produkten ist die Markenbekanntheit schon sehr hoch (man kennt Legamaster, wenn es um Flipcharts oder Whiteboards geht) → hier soll die Bekanntheit mindestens gehalten werden (aber auch Ausbau und Erschließung neuer Zielgruppen)
+* Bei den digitalen Produkten soll die Bekanntheit noch gesteigert werden (wollen hier ein relevanter Player werden) → Lega als Profi für den Produktbereich positionieren
+* Bei den Leads geht es vor allem darum zu sehen, wer die Leute sind, die sich für Legamaster interessieren
+* Es soll dafür gesorgt werden, dass diese Produkte auch verkauft werden - egal, wo. 
+* Können aber nicht jede Conversion messen, weil sie nur über Händler verkaufen und die nicht alles messen
+
+
+* Es soll aber ein “Buying Button” auf den Produktdetailseiten integriert werden, über den man z.B. Preise erhält → hier wird es trackbare Aktionen geben, die als Leads gezählt werden können
+* Außerdem ist in Kooperation mit edding geplant, dass es auch eine B2C-Direktlösung geben wird → direkter Online-Verkauf
+* Leads sind hauptsächlich Kontaktdaten, die von den Vertriebsmitarbeitern gesammelt und verwaltet werden
+* Vertrieb splittet sich in zwei Gebiete
+   * Key Account Management → klassische Kontaktliste, über die Produkte verkauft werden
+   * Projektvertrieb → neue Unternehmen oder eine Schule wird gebaut (große Projekte, für die Komplettlösungen gesucht werden)
+
+
+* Nebenziele (nach Prio)
+   1. Markenbekanntheit & neue Zielgruppen erschließen
+   2. Produktbekanntheit (Erst Marke, dann Produkte → langfristige Maßnahmen)
+   3. Customer Intimacy
+   4. Handel supporten über Social Media
+* Es gibt Händler, mit denen gemeinsame Online-Kampagnen möglich sind
+* Kein Problem, das vor anderen Händlern zu argumentieren
+* Kooperationen sind sogar erwünscht
+
+
+
+
+Zielgruppen
+* Zielgruppenbranche “Unternehmen” kann bei Bedarf noch segmentiert werden (zb. Agentur vs. Großkonzern → Produkte und Ansprache)
+* Zielgruppen werden auf drei Gruppen aufgeteilt: Einkäufer, Verwender und Betrachter
+* Die wichtigsten Zielgruppen sind Einkäufer und Verwender
+* Betrachter nur bei einzelnen Produkten wichtig, denn sie können zu Verwendern werden (z.B. Magic Charts → hier wird auf die Marke geachtet, bei Flipcharts und Whiteboards eher nicht)
+Im Workshop erstellte Persona
+* “Einkäufer für digitales Produkt” (Unternehmen)
+* Christian, 45
+   * Ziele: Preis-Leistung | Nutzbarkeit (Produkte beschaffen, die auch genutzt werden können
+   * Herausforderungen: Erwartungen von Vorgesetzten und Verwendern erfüllen | IT-Anforderungen vs. Anforderungen Geschäftsführung
+   * Bedürfnisse: Gute Usability für Anwender | Stabilität der Anwendung/Verlässlichkeit | Support | Integrierbarkeit
+   * Ängste & Sorgen: Produkt nicht integrierbar im firmeneigenen System | Funktionen entsprechen nicht den Erwartungen | nicht mit IT-Sicherheit konform, steht mit Auftrag alleine da – ohne Support
+   * Pain Points: IT-Sicherheit | Ausfallsicherheit | Transparenz + Vollständigkeit in den Infos zum Produkt
+   * Mediennutzung: beruflich: Hersteller Websites | Google/Suchmaschinen | LinkedIn/Xing | YouTube | Facebook Gruppen | Newsletter; privat: Facebook | YouTube
+Kanäle & Maßnahmen
+SEA
+* bisher keine Erfahrungen, stehen aber in den Startlöchern und wollen diesen Kanal testen
+* Planen eine Kampagne für einen Touchscreen
+* Momentan laufen schon Ads auf LinkedIn als Test
+* Bisher mit dem Ziel: Traffic auf Landingpage mit Kontaktformular
+* Wollen aber gerne Fokus auf Performance setzen (Leads)
+* Mit den Leads soll der Vertrieb unterstützt werden
+* Für den ersten Test sind 100€ Mediabudget angesetzt (Laufzeit noch nicht bestimmt)
+* Definitiv aber spannender Kanal für Legamaster – auch mit Hinblick auf die künftigen Pläne mit “Buying Button” und B2C-Lösung
+YouTube Ads
+* Bisher keine Erfahrungen und auch noch nicht geplant
+* Es gibt aber jede Menge Videomaterial (sowohl für digitale als auch klassische Produkte)
+* Dieses Thema sollte berücksichtigt werden, weil wir hier den Großteil der Zielgruppen direkt erreichen 
+* Fokus hier eher auf die Anwender (danach Einkäufer und als letztes auch Betrachter, aber nicht gezielt)
+SEO
+* Legamaster Deutschland hat nicht viel Möglichkeiten, auf der Website Maßnahmen umzusetzen und Sachen anzupassen
+* Websites werden zentral aus dem Hauptquartier in den Niederlanden gesteuert
+* Dort wird wohl auch mit einer Agentur gearbeitet, jedoch ist das in der Sichtbarkeit und den Keywords nicht ersichtlich
+* Es bestehen viele Fehler und Warnungen und Legamaster Deutschland hätte gerne mehr Zugriff (laufen hier jedoch meist gegen Wände)
+* Beim Content haben sie mehr Freiheiten, z.B. im Newsroom (Blog) haben sie vollkommene Freiheit
+* Sie können auch eigene Landingpages bauen (aber auch hier oft Vorgaben aus den Niederlanden)
+* Bekommen auch Content aus NL, der übersetzt wird
+* CMS ist auf Typo3 aufgebaut, aber das Hauptquartier hat hier wohl ein sehr enges Korsett geschnürt, so dass es nicht viele Möglichkeiten gibt, Maßnahmen umzusetzen
+* Wenn es Änderungswünsche aus Deutschland gibt, dauert es sehr lange, bis sie umgesetzt werden → Legamaster Deutschland ist damit sehr unzufrieden, aber können im Moment nichts daran ändern
+* Sie können auf der Website nichts an der Struktur oder den Produkt- bzw. Kategorieseiten anpassen
+* Momentan ist die Website leider nicht mehr, als ein digitaler Katalog
+* Jegliche Kreativität wird daher momentan über andere Kanäle (z.b. Instagram) ausgelebt
+
+
+* Ziele: Wollen das Thema SEO endlich richtig angehen und die Hausaufgaben erledigen, um die Sichtbarkeit zu erhöhen und danach darauf aufzubauen
+
+
+
+
+Social Media
+Facebook
+* Haben diesen Kanal bisher noch nicht als Fokus-Kanal gesehen
+* Daher noch nicht viel über die Strategie nachgedacht
+* EOM hat auf die Wichtigkeit hingewiesen und Legamaster da auch überzeugt
+* Fanpage wurde bereits “gesaved”, ist aber noch unsichtbar
+* Facebook soll aber als Kanal gestartet und bespielt werden
+* Facebook = Schaltzentrale für Maßnahmen auf FB und IG (Werbung, Shopping usw.)
+Instagram
+* Bisher rein auf Verwender ausgerichtet, aber als Fokus-Kanal definiert
+* Ziel: Branding (Wer ist Legamaster?, Gesicht zeigen, emotional, menschlich)
+* Eigene benchmarks beziehen sich auf einzelne Händler
+YouTube
+* Momentan 1 Upload im Monat (How-to)
+* Produzieren Videos selber (Ricarda)
+* Erster Schritt: Bestehendes Material optimieren und so mehr Views und Follower generieren
+* Anstieg regelmäßiger Uploads von EOM empfohlen (1mal pro Woche?)
+Pinterest
+* Kanal wird noch nicht bespielt, aber Ricarda hat das Thema schon mehrmals ins Spiel gebracht
+* EOM hat mit den aktuellen Entwicklungen und Möglichkeiten überzeugt
+* Kanal kann spannend für Legamaster sein
+* Hier Reichweite erhöhen, indem bestehender Content auch hier stattfindet
+* Pinterest als Traffic-Lieferant
+* Zum Start vielleicht kein Fokus-Kanal, aber definitiv eine Plattform, um neue Zielgruppen zu erschließen (und bestehende zu vergrößern)
+Xing/LinkedIn
+* Lange Zeit ein Account mit edding zusammen
+* “Schwierige Geburt”, aber seit Anfang 2020 eigener Xing Account online
+* Bislang nur das kostenlose Profil, weil zu teuer und noch nicht als sehr relevant definiert → haben sich hier erstmal auf LinkedIn fokussiert
+* Content für LinkedIn wird auf Xing recycled
+* Auf LinkedIn wurde das bezahlte Profil gewählt
+* Erste Kampagne läuft schon als Test (2 Video Ads)
+Redaktionsplanung
+* es gibt keinen festen redaktionsplan
+* oft spontane Posts
+* manchmal schwierig, weil man nicht weiß, was man posten soll
+* Ziel: Monatlicher Redaktionsplan, der flexibel für spontane Themen bleibt, aber eine Richtung vorgibt

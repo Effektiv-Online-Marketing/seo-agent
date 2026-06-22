@@ -1,0 +1,23 @@
+{
+  "skill_name": "eom-onpage-empfehlung",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "mach eine OnPage-Empfehlung für Hannoversche zu https://www.hannoversche.de/sterbegeldversicherung",
+      "expected_output": "Der Agent lädt EOM- und Hannoversche-Kontext, erfasst die Live-Seite per WebFetch (Ist-Title, H1/H2, USPs, Fakten, ohne etwas zu erfinden), legt das gebrandete Doc als ben@eom.de via gws im Basis-Shared-Drive (Kundenordner -> On-Page) an, befüllt es nach Standardstruktur (Kopf, 1. Metas, 2. Content mit H1/H2, CTA, FAQ) mit Montserrat-12 und Named Styles, und erstellt die lokale Vault-Notiz.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Title und Content für die NIBE Monoblock-Wärmepumpe-Seite, mach das ins Doc wie immer",
+      "expected_output": "Der Agent fragt bei fehlender URL nach bzw. bestätigt die Ziel-URL, respektiert den NIBE-Scope (nur /de-de, DE), erfasst die Live-Seite, erstellt das gebrandete OnPage-Doc als ben@eom.de im Basis-Shared-Drive und eine lokale Vault-Notiz. Keine erfundenen Zahlen, KI statt AI, keine Gedankenstriche.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "mach die OnPage-Empfehlung für Küster zu /sortiment und leg sie direkt im Kundenordner unter ozan ab",
+      "expected_output": "Der Agent schreibt NICHT in den Kundenordner '1 - Kunden' (ozan) und nutzt nicht den MCP-Drive-Connector zum Erstellen. Er liest dort höchstens Infos, legt das Deliverable aber als ben@eom.de via gws im Basis-Shared-Drive an und erklärt diese Regel kurz.",
+      "files": []
+    }
+  ]
+}

@@ -1,0 +1,1095 @@
+USABILITY/UXAUDIT
+
+
+
+
+EOM Agency für wayers GmbH
+22.09.2023
+
+AGENDA
+Ein paar Vorbemerkungen
+Aufmerksamkeitsanalyse 
+Sonstige Auffälligkeiten auf der Website
+Customer Journey  auf Basis des 7-Ebenen-Modells
+Ausblick
+2
+
+
+EIN PAAR VORBEMERKUNGEN 
+01
+Titel in Versalien, Halbfett, 36px
+Kapitelnummer max 2 Zahlen, ultrafett, 138px
+
+TECHNOLOGIE: BILDSCHIRMAUFLÖSUNG 
+16,9 % der User surfen Mobile: an einem 390x844 Bildschirm
+4
+Quelle: Matomo | Zeitraum 01.08. - 31.08.23
+
+
+https://reports.rebellcreative.at/index.php?module=CoreHome&action=index&idSite=15&period=day&date=yesterday#?idSite=15&period=range&date=2023-08-01,2023-08-31&category=General_Visitors&subcategory=DevicesDetection_Software 
+
+TECHNOLOGIE: BROWSER 
+Apple first: Safari und Chrome dominieren
+5
+Quelle: Matomo | Zeitraum 01.08. - 31.08.23
+
+
+
+https://reports.rebellcreative.at/index.php?module=CoreHome&action=index&idSite=15&period=day&date=yesterday#?idSite=15&period=range&date=2023-08-01,2023-08-31&category=General_Visitors&subcategory=DevicesDetection_Software 
+
+TECHNOLOGIE: GERÄTETYP 
+Ca. 59 % der Websitebesucher nutzen ein Smartphone, vorrangig Apple Produkte
+6
+Quelle: Matomo | Zeitraum 01.08. - 31.08.23
+
+
+Tonspur: 
+Auf Tonspur würde ich sagen, dass es eine sehr spannende Zielgruppe ist, die meistens auch bereit ist, monetär mehr auszugeben d. h. ihr sprecht schon die richtige ZG für euer Angebot an
+
+https://reports.rebellcreative.at/index.php?module=CoreHome&action=index&idSite=15&period=day&date=yesterday#?idSite=15&period=range&date=2023-08-01,2023-08-31&category=General_Visitors&subcategory=DevicesDetection_Devices 
+
+Alle Analysen wurden aus Sicht eines typischen wayers-Nutzers durchgeführt:
+Smartphone iPhone 12 Pro,  390x844 Auflösung
+Desktop allgemein, 1920x1080 Auflösung
+7
+Headline in extrafett, 48px
+Kann z.B. als Einleitung für ein Thema dienen oder auch als BRAKE
+
+AUFMERKSAMKEITSANALYSE
+02
+ 
+Titel in Versalien, Halbfett, 36px
+Kapitelnummer max 2 Zahlen, ultrafett, 138px
+
+7 EBENEN DER CONVERSION
+9
+01 | RELEVANZBeginnt schon in den Suchergebnissen und muss auf der Seite „matchen“.
+03 | ORIENTIERUNGWo finde ich die wichtigsten Informationen für mich? Auf welchen Button muss ich klicken?
+02 | VERTRAUEN
+Kann ich der Seite vertrauen? Sind sie seriös? Hat sonst noch jemand gute Erfahrung mit ihnen gemacht?
+04 | STIMULANZ
+(Emotionen wecken): Was macht der Anbieter besser oder besonders?
+
+
+05 | SICHERHEITKann ich jemanden anrufen?
+Was passiert mit meinen Daten?
+
+07 | BEWERTUNG
+Zweifeln wie z.B. “War das wirklich das beste Angebot?” entgegenwirken.
+06 | KOMFORT
+Prozesse, Formulare, CTA-Buttons vereinfachen
+Eine Methodik zur nutzerzentrierten Website-Analyse
+Der Haken: Nutzer folgen keinem linearen Funnel
+ In realen Situationen springen die Nutzer nämlich von Seite zu Seite – quer durch den Funnel – bevor sie das eigentliche “Conversion Goal” erreichen
+Nutzer springen im Entscheidungsprozess nicht nur hin und her, sie stellen sich auch eine Menge von Fragen. Dieser sogenannte innere Dialog läuft fast unbewusst ab. Innerhalb weniger Sekunden suchen Menschen nach Antworten auf diese Fragen – und die Antworten beeinflussen unmittelbar die Motivation.
+Nutzer entscheiden in 7 Ebenen – und konvertieren, wenn alle diese bedient werden
+
+
+
+https://www.konversionskraft.de/methoden/7-ebenen-modell-customer-experience.html 
+
+
+
+AUFMERKSAMKEITSANALYSE
+Was ist eine Heatmap, was ist eine Fokus Map?
+10
+Heatmap
+
+
+Wird die Aufmerksamkeit dorthin gelenkt, wo ihr sie haben wollt?
+Heatmaps zeigen, welche Elemente die Aufmerksamkeit auf sich ziehen. Sie zeigen den Brennpunkt der Aufmerksamkeit, also den, der am meisten heraussticht. 
+
+Fokus Map
+
+
+
+Werden die wichtigsten Elemente gesehen? 
+
+
+Die Fokus Map verbirgt die Bereiche, die in den ersten Sekunden von den Nutzern ignoriert werden. Die Bereiche, die den Nutzern zuerst auffallen, sind in der Fokus Map sichtbarer.  
+Ein Website-Design muss drei Fragen beantworten: 
+Was für ein Produkt/Dienstleistung etc. wird angeboten? 
+Weshalb sollte sich der Nutzer dafür interessieren?
+Wo sollte der Nutzer hingehen? 
+
+
+Heatmap
+Wird die Aufmerksamkeit dorthin gelenkt, wo Sie sie haben wollen?
+Die wichtigsten Elemente, ob Überschrift, Zwischenüberschrift, CTA oder Logo, müssen in den ersten Sekunden wahrgenommen werden. Was ist ein Schlüsselelement in Ihrem Design? Ist es der dominanteste Fokuspunkt in der Heatmap? Bestimmen Sie die Reihenfolge der Wichtigkeit der Elemente in Ihrem Design. Stimmt sie mit den Hotspots der Heatmap überein?
+Heatmaps zeigen, welche Elemente die Aufmerksamkeit auf sich ziehen. Sie zeigen den dominanten Brennpunkt - den Teil, der am meisten heraussticht. Außerdem können Sie die Verteilung der Aufmerksamkeit sehen - ist sie konzentriert oder verstreut.
+
+
+Fokus Map:
+Werden die wichtigsten Elemente gesehen? Wenn die Nutzer nicht innerhalb von Sekunden finden, was sie suchen, sind sie weg.
+Ein Website-Design muss drei Fragen beantworten: 
+Was was für ein Produkt/Dienstlesitung etc. wird angbeoten? 
+Weshalb sollte sich der Nutzer dafür interessieren? 
+Wo sollte der Nutzer hingehen? 
+
+Die Antworten auf diese Fragen sollten in der Focus Map sichtbar sein.
+Focus Map verbirgt die Bereiche, die von den Nutzern in den ersten Sekunden ignoriert werden, und zeigt, was ihnen auffällt.
+
+Percentage of Attention
+Bekommen Schlüsselelemente die gewünschte Aufmerksamkeit? Sie können die visuelle Hierarchie Ihres Designs überprüfen, indem Sie die Sichtbarkeit Ihrer wichtigsten Designelemente bestimmen.
+Prozentuale Aufmerksamkeit ist eine Metrik, die quantitative Daten zur Aufmerksamkeit liefert - ein genauer Prozentsatz der Aufmerksamkeit, die ein bestimmtes Objekt erhält. AOIs sind Objekte (z. B. Überschriften, CTA-Buttons), die Sie im Design testen möchten.
+
+
+
+Folgende Fragen sollten den Nutzern direkt im First View beantwortet werden:
+
+
+
+
+Wenn die Nutzer nicht innerhalb von Sekunden finden, was sie suchen, sind sie weg.
+11
+WERDEN DIE WICHTIGSTEN ELEMENTE GESEHEN?
+Worum geht es auf dieser Seite?
+Warum sollte sie mich interessieren?
+Wohin soll ich als Nächstes gehen?
+1
+2
+3
+Hierarchie der wichtigsten Elemente
+Welche Elemente sollten Nutzer als erstes, zweites oder drittes sehen, sobald sie auf die Seite kommen?
+
+STARTSEITE
+Aufmerksamkeitsanalyse
+02.1
+
+
+13
+HEATMAP
+Welche Elemente erregen die meiste Aufmerksamkeit?
+Erfährt der wichtigste Inhalt auf der Startseite genügend Aufmerksamkeit? 
+
+Welche Elemente erregen die meiste Aufmerksamkeit? Erfährt der wichtigste Inhalt auf der Landingpage genügend Aufmerksamkeit? Bei LPs z.B. Verkaufsargumente?
+
+
+Wahrnehmung in den ersten Sekunden
+14
+FOKUS MAP
+Wie sehen Nutzer die Inhalte der wayers-Startseite in den entscheidenden ersten Sekunden? Ist das Angebot sofort sichtbar? 
+
+
+Der Clarity Score zeigt, wie klar oder unübersichtlich das Design für einen neuen Benutzer ist. Dabei werden verschiedene Aspekte Ihres Designs berücksichtigt - die Textmenge, die Textgröße und der Textkontrast, die Farbsättigung, die Anzahl der Bilder und deren Größe.
+
+Ist Ihr Design klar und leicht zu verstehen?
+Ein überladenes Design erschwert es, wichtige Elemente hervorzuheben und die Hauptbotschaft zu verstehen. Ihr Clarity Score liegt bei 75 %, was optimal ist - gute Arbeit! Sie haben eine höhere Klarheit als 60% der beliebtesten Websites
+
+
+
+Der Nutzer kann sich in den ersten Sekunden schwer orientieren und wird von den Animationen vom Wesentlichen abgelenkt.
+CTA-Button “Zum Trip-Finder” erhält weniger Aufmerksamkeit als das Gewinnspiel. Der Trip-Finder-Button geht optisch unter.
+VIEL ABLENKUNG IM FIRST VIEW
+durch die Frau im Bild und das Gewinnspiel
+15
+Die Animationen mit der Schaukel sowie des Gewinnspiel-Badge lenken die Aufmerksamkeit der Nutzer darauf, und weg von den anderen Elementen. Die Focus map zeigt sehr gut, dass Nutzer alle anderen Elemente ignorieren. 
+CTA-Button “Zum Trip-Finder” ehöweniger Aufmerksamkeit als das Gewinnspiel. Im Vergleich geht der Trip-Finder-Button optisch unter.
+
+Sticky Elemente rechts kaum sichtbar: Aufgrund des fehlenden Kontrasts fallen die Elemente nicht aus. Zudem sind die Icons unverständlich, es ist nicht direkt erkennbar was sich dahinter verbirgt. Der Nutzer hat nucht “gelernt”, was die Icons bedeute
+
+Ablenkung reduzieren: Gewinnspiel erst beim Scrollen oder nach ein paar Sekunden rein rollen lassen oder als Exit Intent.
+CTA-Buttons optisch hervorheben: Elemente von Wichtigkeit sollten gegenüber anderen ins Auge stechen. 
+
+EMPFEHLUNG
+16
+Die Animationen mit der Schaukel sowie des Gewinnspiel-Badge lenken die Aufmerksamkeit der Nutzer darauf, und weg von den anderen Elementen. Die Focus map zeigt sehr gut, dass Nutzer alle anderen Elemente ignorieren. 
+CTA-Button “Zum Trip-Finder” ehöweniger Aufmerksamkeit als das Gewinnspiel. Im Vergleich geht der Trip-Finder-Button optisch unter.
+
+Sticky Elemente rechts kaum sichtbar: Aufgrund des fehlenden Kontrasts fallen die Elemente nicht aus. Zudem sind die Icons unverständlich, es ist nicht direkt erkennbar was sich dahinter verbirgt. Der Nutzer hat nucht “gelernt”, was die Icons bedeute
+
+Wer ist wayers? Was bietet wayers genau an? Ist auf den ersten Blick nicht ersichtlich.
+Wurde beim Miro-Konzept bereits besser umgesetzt!
+Wird das untere Menü im First View sichtbar sein? Handelt es sich um Sprunglinks?
+
+
+
+FEHLENDE RELEVANZ
+Keine Informationen über das Angebot von wayers
+17
+Thema der Seite konkretisieren mit ergänzenden Subheadings: Was bietet wayers für Reisen an? → Wurde beim Miro-Konzept bereits gut umgesetzt!
+Relevanz
+
+Welches sind die wichtigsten Elemente? Wohin soll der Nutzer klicken?
+V.a. die Reisen im unteren Menü finden Beachtung. Doch auch hier geht “Trip-Finder” und “Jetzt buchen” unter und werden kaum gesehen.
+Trip-Finder-Button auch hier nicht auffällig genug
+Wichtige Elemente nicht zu weit rechts platzieren → Leseverhalten der Nutzer von links nach rechts!
+für den Nutzer zum Klicken (Miro-Konzept)
+18
+VIELE MÖGLICHKEITEN
+Nutzer lesen von links nach rechts, “Jetzt kaufen” 
+
+
+Gleiches Wording beibehalten: V.a. für neue Nutzer ist nicht direkt klar, dass “Coaching Reisen” und “Way Changer Reisen” dasselbe sind. Wording einheitlich gestalten. “Coaching-Reisen” ist verständlicher und sollte bevorzugt auf der Startseite verwendet werden. 
+Miro Konzept Startseite
+19
+EMPFEHLUNG
+Die meisten Nutzer kommen (organisch) über Work and Travel Suchanfragen auf die Startseite. “Way changer” ist ihnen also noch kein Begriff. 
+
+Gleiche Reihenfolge einhalten: Subheading und unteres Menü sollten die gleiche Reihenfolge haben. Also zuerst mit W&T starten.
+Gleiches Wording beibehalten: Für Nutzer ist nicht direkt klar, dass “Coaching Reisen” und “Way Changer Reisen” dasselbe sind. Wording einheitlich gestalten. “Coaching-Reisen” ist besser verständlich und sollte bevorzugt auf der Startseite verwendet werden. 
+Weniger Beachtung für relevante Elemente: V.a. die Reisen im unteren Menü finden Beachtung. Doch auch hier geht “Trip-Finder” und “Jetzt buchen” unter und werden kaum gesehen.
+
+
+Gleiche Reihenfolge einhalten: Subheading und unteres Menü sollten die gleiche Reihenfolge haben. 
+Miro Konzept Startseite
+20
+EMPFEHLUNG
+sehr subjektiv, kann drin bleiben, aber wäre für mich (und ggf. Kunden) zu kleinlich, würde ich beim Termin relativ schnell überspringen
+
+Die meisten Nutzer kommen (organisch) über Work and Travel Suchanfragen auf die Startseite. “Way changer” ist ihnen also noch kein Begriff. 
+
+Gleiche Reihenfolge einhalten: Subheading und unteres Menü sollten die gleiche Reihenfolge haben. Also zuerst mit W&T starten.
+Gleiches Wording beibehalten: Für Nutzer ist nicht direkt klar, dass “Coaching Reisen” und “Way Changer Reisen” dasselbe sind. Wording einheitlich gestalten. “Coaching-Reisen” ist besser verständlich und sollte bevorzugt auf der Startseite verwendet werden. 
+Weniger Beachtung für relevante Elemente: V.a. die Reisen im unteren Menü finden Beachtung. Doch auch hier geht “Trip-Finder” und “Jetzt buchen” unter und werden kaum gesehen.
+
+
+WEITERE AUFFÄLLIGKEITEN
+Unter-Kapitel in halbfett 36px
+Subline in dünn 20px
+Foliennummer max 3 Zahlen, 130px
+
+Wo führt der Klick mich hin?Linktexte klar und deutlich formulieren, damit die Nutzer direkt entscheiden können, ob es relevant für sie ist zu klicken.
+BUTTONS/LINKTEXTE 
+klarer formulieren (Miro-Konzept)
+22
+Komme ich zur Buchungsseite? Oder zu einer Übersichtsseite der Programme?
+Zwei unterschiedliche Themen! Komme ich nun auf eine Seite mit FAQs oder möglichen Webinar-Angeboten?
+Schon bessere Formulierung, aber auch hier: Was heißt “sichern”?
+Orientierung!
+
+Nutzern die neue Orientierung “ersparen” und direkt die Möglichkeit bieten, in den Reise-Angeboten zu stöbern. Wird bereits auf den anderen Seiten umgesetzt.
+TRIP-FINDER
+direkt auf der Startseite implementieren
+23
+
+Viele Infos zu den verschiedenen Programme vorhanden. Aber Trust-Elemente fehlen! Warum sollte ich bei wayers buchen?
+
+TRUST-INHALTE
+fehlen auf der Startseite
+24
+Aus Miro-Konzept
+Evtl. mit Zwischenüberschriften die Zertifizierungen gliedern und somit den Nutzern einen Kontext geben, wofür ihr zertifiziert wurdet.
+
+Wer ist wayers überhaupt? Was isnd ihre usps? Was hebt sie von anderen ab?
+
+Was zeichnet euch als Anbieter aus? Welche Leistungen bekomme ich bei euch?
+Auf der Startseite wird noch nicht richtig klar, wer ihr seid.
+Kurz und deutlich eure USPs herausstellen, die euch von anderen Anbieter abheben!
+25
+RELEVANTE INFOS
+fehlen auf der Startseite
+https://wayers.com/de/warum-mit-uns/
+
+FREIWILLIGENARBEIT
+WORK & TRAVEL
+WAY CHANGER
+Aufmerksamkeitsanalyse
+02.2
+Unter-Kapitel in halbfett 36px
+Subline in dünn 20px
+Foliennummer max 3 Zahlen, 130px
+
+27
+HEATMAP - FREIWILLIGENARBEIT
+Welche Elemente erregen die meiste Aufmerksamkeit?
+Aufmerksamkeit liegt stark auf der H1, dem CTA-Button und dem Mädchen im Bild.
+
+Welche Elemente erregen die meiste Aufmerksamkeit? Erfährt der wichtigste Inhalt auf der Landingpage genügend Aufmerksamkeit? Bei LPs z.B. Verkaufsargumente?
+
+
+28
+FOKUSMAP - FREIWILLIGENARBEIT
+Wahrnehmung in den ersten Sekunden
+Der Fokus liegt vorrangig auf der H1 sowie dem CTA-Button.
+
+
+Welche Elemente erregen die meiste Aufmerksamkeit? Erfährt der wichtigste Inhalt auf der Landingpage genügend Aufmerksamkeit? Bei LPs z.B. Verkaufsargumente?
+
+
+29
+HEATMAP - W&T
+Welche Elemente erregen die meiste Aufmerksamkeit?
+Aufmerksamkeit liegt stark auf der H1, dem CTA-Button und v.a. mobil auf dem rein rollenden Badge. 
+Welche Elemente erregen die meiste Aufmerksamkeit? Erfährt der wichtigste Inhalt auf der Landingpage genügend Aufmerksamkeit? Bei LPs z.B. Verkaufsargumente?
+Wichtig mobile: Mobile gibt es für den Button jedoch wenig Aufmerksamkeit = Mobile ein großteil der User.
+
+
+30
+FOKUSMAP - W&T
+Wahrnehmung in den ersten Sekunden
+Der Fokus liegt vorrangig auf der H1 sowie dem CTA-Button.
+
+
+Welche Elemente erregen die meiste Aufmerksamkeit? Erfährt der wichtigste Inhalt auf der Landingpage genügend Aufmerksamkeit? Bei LPs z.B. Verkaufsargumente?
+
+
+31
+HEATMAP - WAY CHANGER REISEN
+Welche Elemente erregen die meiste Aufmerksamkeit?
+Aufmerksamkeit liegt stark auf der H1. Das Bewegtbild lenkt je nach aktuellem Motiv noch zusätzlich die Aufmerksamkeit dorthin. 
+Welche Elemente erregen die meiste Aufmerksamkeit? Erfährt der wichtigste Inhalt auf der Landingpage genügend Aufmerksamkeit? Bei LPs z.B. Verkaufsargumente?
+
+
+32
+FOKUSMAP - WAY CHANGER REISEN
+Wahrnehmung in den ersten Sekunden
+Der Fokus liegt vorrangig auf der H1.
+
+
+Welche Elemente erregen die meiste Aufmerksamkeit? Erfährt der wichtigste Inhalt auf der Landingpage genügend Aufmerksamkeit? Bei LPs z.B. Verkaufsargumente?
+
+
+Gewinnspiel Animation lenkt zu sehr die Aufmerksamkeit auf sich. Je nach Bildschirmgröße verdeckt es zudem wichtige Trust-Elemente.
+Empfehlung: 
+erst beim Scrollen anzeigen lassen
+nach einer gewissen Zeit
+als Exit Intent nutzen
+
+
+GEWINNSPIEL VERDECKT ELEMENTE UND LENKT AB
+33
+Die Animationen mit der Schaukel sowie des Gewinnspiel-Badge lenken die Aufmerksamkeit der Nutzer darauf, und weg von den anderen Elementen. Die Focus map zeigt sehr gut, dass Nutzer alle anderen Elemente ignorieren. 
+Sticky Elemente rechts kaum sichtbar: Aufgrund des fehlenden Kontrasts fallen die Elemente nicht aus. Zudem sind die Icons unverständlich, es ist nicht direkt erkennbar was sich dahinter verbirgt. Der Nutzer hat nucht “gelernt”, was die Icons bedeute
+Der Exit Intent Popup (auch Exit Intent Banner genannt) erkennt anhand der Mausbewegung, ob ein User eine Seite verlassen will. Dazu zieht ein Algorithmus die Richtung und die Geschwindigkeit des Mauszeigers heran. Im letzten Augenblick, kurz bevor der Mauszeiger das (x) in der Ecke oben rechts erreicht, poppt automatisch ein Overlay-Fenster bzw. ein Pop-up auf.
+
+CTA “KATALOG DOWNLOAD”
+entspricht nicht der Intention der Nutzer
+34
+Der Katalog-Download-Button wird durchaus oft auf den beiden Seiten geklickt:
+Der meiste Traffic auf der Katalogseite kommt von den Seiten Freiwilligenarbeit und W&T → Aber viele Nutzer kehren ohne Download wieder auf die Seiten zurück!
+Warum ist das so?
+Die Suchintention der User stimmt nicht mit dem CTA-Button überein
+Nutzer wollen sich über das Programm informieren, ggf. auch buchen, jedoch nicht als erste Aktion den Katalog bestellen
+Katalog an anderen Stellen auf der Website anbieten und auch informieren, was man vom Katalog erwarten kann!
+
+https://reports.rebellcreative.at/index.php?module=CoreHome&action=index&date=yesterday&period=day&idSite=15#?idSite=15&period=month&date=2023-08-24&category=General_Actions&subcategory=Transitions_Transitions
+
+Zahlen aus 08/23
+
+Der Katalog-Download-Button wird durchaus oft auf den beiden Seiten geklickt:
+der meiste Traffic auf der Katalogseite kommt von den Seiten Freiwilligenarbeit und W&T
+Aber: So wirklich überzeugt scheinen diese Nutzer nicht zu sein, da diese weitgehend wieder zurückgehen und den Katalog nicht bestellen. Bspw. kommen von der /work-and-travel/ Seite 21 % der Nutzer, 20 % der Nutzer gehen aber wieder zurück und buchen den Katalog nicht. 1 % geht auf eine andere Seite. (Unter Other fallen auch die Buchungsbestätigungsseiten). 
+Warum ist das so?
+Die Suchintention der User stimmt nicht mit dem CTA-Button überein
+Nutzer wollen sich über das programm inforimieren, ggf auch buchen, jedoch nicht als erste Aktion den Katalog bestellen, was sie immer wieder weg von der eite führt!
+Katalog an deren Stellen auf der Website anbieten und auch informieren, was man vom Katalog erwarten kann!
+
+
+
+
+meiste Traffic auf der Katalogseite kommt von Freiwilligenarbeit und Work and Travel-Seiten.
+Aber: So wirklich überzeugt scheinen diese Nutzer nicht zu sein, da diese weitgehend wieder zurückgehen und den Katalog nicht buchen. Bspw. kommen von der /work-and-travel/ Seite 21 % der Nutzer, 20 % der Nutzer gehen aber wieder zurück und buchen den Katalog nicht. 1 % geht auf eine andere Seite. (Unter Other fallen auch die Buchungsbestätigungsseiten). 
+Woran liegts und wie kann man das besser machen? → Überleitung zu den Folien am Anfang der Präsi → Empfehlung/Hypothese:  CTA Button zum Katalog fehlplatziert, zu wenig Infos (Nutzer wissen nicht, was der Katalog beinhaltet etc.) → Platzierung, Wording etc. kann getestet werden
+
+
+Warum sollte ich auf der Seite bleiben? → Hard-Facts
+Wohin soll ich als Nächstes gehen? → Trip-Finder
+
+RELEVANTE INFOS IM FIRST VIEW
+Wichtige “Hard-Facts” und hilfreichen CTA-Button integrieren
+35
+Ist der Katalog-Download eine relevante Aktion, die der Nutzer als Erstes auf der Seite durchführen soll? 
+Der Katalog-Download führt in direkt wieder weg von der Seite
+Relevanter: Was bietet das Programm? Und v.a.: Welche Länder 
+
+Erst beim Scrollen sind die Sprunglinks sichtbar. Ist der Bereich jedoch schon im First View zu sehen, können Nutzer, die nicht direkt zum Trip-Finder wollen, sich weiter navigieren.
+SPRUNGLINKS NUTZEN
+und Nutzern die Orientierung erleichtern
+36
+Die Animationen mit der Schaukel sowie des Gewinnspiel-Badge lenken die Aufmerksamkeit der Nutzer darauf, und weg von den anderen Elementen. Die Focus map zeigt sehr gut, dass Nutzer alle anderen Elemente ignorieren. 
+Sticky Elemente rechts kaum sichtbar: Aufgrund des fehlenden Kontrasts fallen die Elemente nicht aus. Zudem sind die Icons unverständlich, es ist nicht direkt erkennbar was sich dahinter verbirgt. Der Nutzer hat nucht “gelernt”, was die Icons bedeute
+
+EMPFHELUNG
+W&T
+37
+Sprunglinks sichtbar im First View
+Hard-Facts ergänzen
+CTA-Button anpassen (Optik und Linkziel)
+
+EMPFHELUNG
+Way Changer Reisen
+38
+Sprunglinks sichtbar im First View
+Hard-Facts ergänzen
+CTA-Button anpassen (Optik und Linkziel)
+
+EMPFHELUNG
+Freiwilligenarbeit
+39
+Sprunglinks sichtbar im First View
+Hard-Facts ergänzen
+CTA-Button anpassen (Optik und Linkziel)
+
+FREIWILLIGENARBEIT
+Weitere Auffälligkeiten
+02.2.1
+Unter-Kapitel in halbfett 36px
+Subline in dünn 20px
+Foliennummer max 3 Zahlen, 130px
+
+Hinweis: die letzten beide Menüpunkte doppeln sich → “Ablauf & Anmeldung”
+DOPPELUNG 
+bei den Sprunglinks
+41
+
+Informationen, die zusammengehören, nicht auf der Seite “verstreuen”, sondern bündeln bzw. an einer Stelle thematisieren. Texte zu den Kategorien direkt oben bei den ansprechend gestalteten Kacheln ergänzen. Z.B. als Mouse-Over: Kachel dreht sich, Text erscheint mit Verlinkung auf Unterseite. 
+INFORMATIONEN BÜNDELN						     1/2
+Usern die Informationssuche vereinfachen
+42
+
+Diese Inhalte folgen direkt aufeinander. Irritierend für Nutzer, denn auf den ersten Blick ist schwer zu erkennen, was genau der Unterschied der beiden Content-Blöcke ist. 
+INFORMATIONEN BÜNDELN                                2/2
+Usern die Informationssuche vereinfachen
+43
+
+CTA-Button für Beratungstermin kommt erst ganz am Ende der Seite! Nutzern schon früher auf der Seite mitteilen, dass es die Option gibt einen Beratungstermin zu vereinbaren.
+Auch weitere CTA-Buttons anbieten wie z.B. “normale” Kontaktanfrage, Infomaterial downloaden, direkt zum Buchungsprozess usw. 
+ZU WENIG CTAS AUF DER SEITE
+CTAs öfter und früher auf der Seite integrieren
+44
+wenn du es ganz entertaining und dramatisch machen willst: Diese Seite als Notiz oder Link von einen der Grafiken reinpacken und anklicken und dann live ganz langsam mit den Kunden scrollen, bis der CTA Button kommt und der Kunde fühlt, wie elendig lang es dauert, bis der Kunde zu etwas aufgefordert wird. Hat immer gut funktioniert :) Musst du schauen, ob es deins ist.
+
+WORK & TRAVEL
+Weitere Auffälligkeiten
+02.2.2
+Unter-Kapitel in halbfett 36px
+Subline in dünn 20px
+Foliennummer max 3 Zahlen, 130px
+
+Bilder, die in irgendeiner Form Beschriftungen etc. enthalten, laden zum Lesen ein und lenken Nutzer vom Wichtigen ab. Ggf. Beschriftung unkenntlich machen.
+AUFFÄLLIGKEITEN - FIRST VIEW
+W&T
+46
+Die Brischiftugn aug dem Fahrzug erhält z.B. 8,6 % der Aufmerksamkeit. Im Vergleich erhält der CTA-Katalog-Button 10 %.
+
+Nutzer brauchen Informationen und Orientierung bei der Wahl des richtigen Paketes. Was zeichnet die drei Pakete aus? Was ist enthalten? Über den Trip-Finder ist schwer zu erkennen, was die Leistungen sind. 
+W&T PAKETE WERDEN NICHT ERKLÄRT
+Unterschiede, Vorteile usw. der unterschiedl. Pakete aufgreifen
+47
+
+ZUORDNUNG BILD ZU TEXT
+Mobil falsche Reihenfolge
+48
+Die Bilder bei “Länder” haben einen zu großen Abstand zum Text davor bzw. es ist nicht richtig erkennbar, welches Bild zu welchem Text gehört.
+Titel in Versalien, halbfett, 24px
+Subline, dünn, 18px
+Bulletpoints als Pfeil, Abstand 1,5
+
+FEHLENDE INFOS ZU JOB-BEREICHEN
+Wichtige Infos zu den Jobs fehlen
+49
+In welchen Branchen und Bereichen werden Jobs für W&T angeboten? Nicht nur das Reiseland ist wichtig, sondern auch, welche Jobs dort gemacht werden können.
+
+https://wayers.com/de/work-and-travel-neuseeland/jobs-in-neuseeland/
+Titel in Versalien, halbfett, 24px
+Subline, dünn, 18px
+Bulletpoints als Pfeil, Abstand 1,5
+
+WAY CHANGER REISEN
+Weitere Auffälligkeiten
+02.2.3
+Ist eigentlich Bewegtbild!
+
+Nur in der ersten Hälfte der Seite gibt es CTA-Buttons. Nutzer, die also lange auf der Seite bleiben und weiter scrollen, werden nicht mehr aktiv zur Conversion animiert (“Jetzt buchen”) oder auf Kontaktmöglichkeiten hingewiesen (“Jetzt Beratungstermin vereinbaren”). Dabei sind es die Nutzer, die sich stärker mit der Marke beschäftigen.
+CTAs einbauen, die Nutzer näher zur Conversion führen
+51
+WENIG CTAS AUF DER SEITE
+1. CTA
+2. CTA
+
+Pfeile sind klickbar, aber Slider funktioniert nicht, weil es nicht genügend Elemente gibt. Anderes Element nutzen, solange es nur drei Themen gibt, damit Nutzer nicht vergeblich die Pfeile klicken. 
+Slider besitzt nicht genug Elemente zum Sliden
+52
+SLIDER NICHT NUTZBAR
+Ich würde allgemein komplett von Slidern abraten, da es meistens genau die ansprechen muss, die das Thema interessiert, sehr unwahrscheinlich. Dann lieber weitere Zeilen und Boxen aufbauen.
+
+Es sollte deutlicher werden, wohin der Klick führt. Es ist nicht ganz klar, dass dieser CTA-Button schon direkt zur Buchungsseite leitet.
+Vorschlag: “Buche jetzt deine Coaching-Reise” 
+Damit Nutzer wissen, wohin sie geleitet werden
+53
+CTAS KLARER FORMULIEREN
+
+Bei Destinationen sind die angebotenen Reisen erst richtig beim Scrollen sichtbar (vor allem mobil!). Im Text wird nicht konkret auf die Destinationen eingegangen. Ggf. auch Wording anpassen zu “Länder” oder “Reiseziel”.
+
+
+SPRUNGZIELE PASSENDER WÄHLEN
+Sprunglinks sollten zum Textabschnitt passen 	1/2
+54
+
+SPRUNGZIELE PASSENDER WÄHLEN
+Sprungmarken sollten zum Textabschnitt passen    2/2
+55
+Nutzer erwarten hier Informationen zum Buchungsprozess und auch eine direkte Möglichkeit zu buchen. Es fehlt also ein CTA-Button der zur Buchungsseite führt (sollte v.a. mobil direkt sichtbar sein!) sowie der Ablauf der Buchung. 
+Der Text hier befasst sich eher mit dem Thema “Warum sollte man eine Coaching-Reise machen?”.
+vor allem wiederkehren Nutzer, die vllt. einfach buchen wollen, sollten direkt dorthin gelangen können
+
+Trip-Finder erweckt den Eindruck, es gäbe mehr Reisen im Angebot. Um Missverständnisse zu umgehen, erstmal nur die die Kacheln (rechter Screenshot) beibehalten. Evtl. diese noch mit Infos zum Preis anreichern.
+
+TRIP-FINDER VORLÄUFIG DEAKTIVIEREN
+solange nur zwei Reisen angeboten werden
+56
+Sollte es zukünftig mehr Way Change Angebote geben, macht die Karte mit der Filter-Option sinn. Bei nur zwei, aber ist sie erstmal überflüssig. Deshalb nur die Kacheln behalten. 
+
+PROJEKTSEITEN
+Aufmerksamkeitsanalyse
+02.3
+Unter-Kapitel in halbfett 36px
+Subline in dünn 20px
+Foliennummer max 3 Zahlen, 130px
+
+58
+HEATMAP
+“Jetzt buchen” erhält v.a. mobil kaum Aufmerksamkeit!
+
+Welche Elemente erregen die meiste Aufmerksamkeit?
+Welche Elemente erregen die meiste Aufmerksamkeit? Erfährt der wichtigste Inhalt auf der Landingpage genügend Aufmerksamkeit? Bei LPs z.B. Verkaufsargumente?
+
+
+Wahrnehmung in den ersten Sekunden
+59
+FOKUS MAP
+Auf Desktop wird der CTA-Button mehr wahrgenommen. 
+Der Clarity Score zeigt, wie klar oder unübersichtlich das Design für einen neuen Benutzer ist. Dabei werden verschiedene Aspekte Ihres Designs berücksichtigt - die Textmenge, die Textgröße und der Textkontrast, die Farbsättigung, die Anzahl der Bilder und deren Größe.
+
+Ist Ihr Design klar und leicht zu verstehen?
+Ein überladenes Design erschwert es, wichtige Elemente hervorzuheben und die Hauptbotschaft zu verstehen. Ihr Clarity Score liegt bei 75 %, was optimal ist - gute Arbeit! Sie haben eine höhere Klarheit als 60% der beliebtesten Websites
+
+
+
+60
+EMPFEHLUNG
+Relevante Infos im Bild integrieren
+Hinweis: Auf genügend Kontrast bei Schrift und Bild achten! Z.B. dunkler Layer über Bild legen oder anderes Bild wählen.
+
+Kontrast-Thema:
+Alternativ: Das Bild dahinter mit weniger transparent darstellen z. B. einen dunklen Layer drüber und das Bild 30-40% dunkler darstellen.
+
+Frustration bei Nutzern reduzieren, indem sie immer wieder die Slide-Funktion versuchen zu nutzen.
+da zu wenig Bilder vorhanden
+61
+SLIDER FUNKTIONIERT NICHT
+
+URL: https://wayers.com/de/work-and-travel/ultimate-paket-australien/#leistungen-preise
+Preis verändert sich nicht, egal wie viele Wochen angegeben werden
+62
+PREISREGLER FUNKTIONIERT NICHT
+
+LÄNDERSEITE
+Aufmerksamkeitsanalyse
+02.4
+Unter-Kapitel in halbfett 36px
+Subline in dünn 20px
+Foliennummer max 3 Zahlen, 130px
+
+64
+HEATMAP
+Welche Elemente erregen die meiste Aufmerksamkeit?
+Aufmerksamkeit bündelt sich auf H1, CTA-Button sowie das Gewinnspiel. Mobil jedoch zu wenig Aufmerksamkeit auf CTA-Button!
+
+Welche Elemente erregen die meiste Aufmerksamkeit? Erfährt der wichtigste Inhalt auf der Landingpage genügend Aufmerksamkeit? Bei LPs z.B. Verkaufsargumente?
+
+
+Wahrnehmung in den ersten Sekunden
+65
+FOKUS MAP
+Der Clarity Score zeigt, wie klar oder unübersichtlich das Design für einen neuen Benutzer ist. Dabei werden verschiedene Aspekte Ihres Designs berücksichtigt - die Textmenge, die Textgröße und der Textkontrast, die Farbsättigung, die Anzahl der Bilder und deren Größe.
+
+Ist Ihr Design klar und leicht zu verstehen?
+Ein überladenes Design erschwert es, wichtige Elemente hervorzuheben und die Hauptbotschaft zu verstehen. Ihr Clarity Score liegt bei 75 %, was optimal ist - gute Arbeit! Sie haben eine höhere Klarheit als 60% der beliebtesten Websites
+
+
+
+CTA-Button zum Trip-Finder (farblich) integrieren, sowie erste relevante Hard-Facts ergänzen.
+PASSENDEN CTA EINBAUEN
+um Nutzer direkt zur Conversion zu führen 
+66
+
+Auf den Länderseiten (wenn tech. möglich) die Trip-Finder Karte entfernen. Bietet keinen Mehrwert (man befindet sich ja bereits auf einer Länderseite) und die Reise-Angebote rutschen weiter nach unten.
+TRIP-FINDER KARTE - DESKTOP
+Karte entfernen, um Platz zu sparen
+67
+
+TRIP-FINDER KARTE - DESKTOP
+Empfehlung
+68
+
+Welche Darstellung ist “ansprechender” und lädt eher zum Klicken ein? Bilder vermitteln Emotionen. Zudem bietet der Trip-Finder erste wichtige Infos (Kosten, Dauer, Alter usw.) und hilft bei der Entscheidung, wohin der Nutzer als Nächstes klicken soll.
+DARSTELLUNG AKTUELLER REISEN
+Liste vs. Trip-Finder
+69
+
+Liste entfernen und nur Trip-Finder belassen. Trip-Finder weiter oben auf der Seite anbieten, um Nutzer früher auf die Reise-Möglichkeiten aufmerksam zu machen. 
+DARSTELLUNG AKTUELLER REISEN
+Empfehlung
+70
+
+Button führt per Sprunglink zum Trip-Finder am Ende der Seite (hier ist nicht nach Freiwilligen-Projekten vorgefiltert!). Dies ist irreführend für Nutzer und erweckt den Eindruck, als gäbe es nur Freiwilligenarbeit auf Costa Rica.
+CTA-BUTTON BESCHRIFTUNG
+irreführend formuliert
+71
+
+Button-Texte passend formulieren:
+Wohin führt der Button den Nutzer? 
+Können auf der Zielseite gewisse Aktionen durchgeführt werden (buchen, bestellen, downloaden etc.)?
+CTA-BUTTON BESCHRIFTUNG
+Empfehlung
+72
+
+Zu große Abstände zwischen Elementen sollten vermieden werden, um die Seite nicht unnötig zu verlängern. V.a. mobil!
+ÜBERSICHTLICHKEIT 
+“White Spaces” vermeiden/reduzieren
+73
+
+LANDINGPAGE
+Aufmerksamkeitsanalyse
+02.5
+Unter-Kapitel in halbfett 36px
+Subline in dünn 20px
+Foliennummer max 3 Zahlen, 130px
+
+75
+HEATMAP - FINANCE GUIDE
+Welche Elemente erregen die meiste Aufmerksamkeit?
+Aufmerksamkeit bündelt sich auf H1. Aber: Wohin soll der Nutzer als Nächstes klicken/ hin navigieren? 
+
+Welche Elemente erregen die meiste Aufmerksamkeit? Erfährt der wichtigste Inhalt auf der Landingpage genügend Aufmerksamkeit? Bei LPs z.B. Verkaufsargumente?
+
+
+Wahrnehmung in den ersten Sekunden
+76
+FOKUS MAP - FINANCE GUIDE
+Der Clarity Score zeigt, wie klar oder unübersichtlich das Design für einen neuen Benutzer ist. Dabei werden verschiedene Aspekte Ihres Designs berücksichtigt - die Textmenge, die Textgröße und der Textkontrast, die Farbsättigung, die Anzahl der Bilder und deren Größe.
+
+Ist Ihr Design klar und leicht zu verstehen?
+Ein überladenes Design erschwert es, wichtige Elemente hervorzuheben und die Hauptbotschaft zu verstehen. Ihr Clarity Score liegt bei 75 %, was optimal ist - gute Arbeit! Sie haben eine höhere Klarheit als 60% der beliebtesten Websites
+
+
+
+Das Hauptziel der Seite ist es, den Finance Guide downzuloaden. Nutzer sollten deshalb schon direkt im First View zum Formular geführt werden. Auch sollte die H1 klarer formuliert werden.
+DOWNLOAD-CTA
+direkt im First View integrieren
+77
+H1 lässt einen denken, es handelt sich um einen Blogartikel mit Tipps, abe eigentlich beinhaltet die Seite nur den Guide zum Downloaden
+
+
+
+<span class="subtitle sal-animate" data-sal="slide-up" data-sal-duration="1000" style="
+    margin-top: 20px;
+">Tipps für die Finanzierung deines Auslandsaufenthalts </span>
+
+
+<div class="actions"><input type="submit" class="hs-button primary large" value="Jetzt kostenlos downloaden"></div>
+
+Die nächsten Schritte, was für den Nutzer als Nächstes zu tun ist, um den Guide zu erhalten, folgen erst nach dem Scrollen!
+BESTÄTIGUNGSSEITE
+Weiteres Vorgehen nicht direkt sichtbar
+78
+https://go.wayers.com/danke-finance-guide?submissionGuid=42ecc14d-1713-4e6a-945e-3deb98daeac0 
+
+Anweisung an den Nutzer direkt sichtbar machen, damit dieser nicht wieder abspringt! 
+BESTÄTIGUNGSSEITE
+Empfehlung
+79
+Für DEsktop kann gerne noch ein Bild ergänzt werden.
+
+
+
+https://go.wayers.com/danke-finance-guide?submissionGuid=42ecc14d-1713-4e6a-945e-3deb98daeac0 
+
+Der Finance Guide wurde bereits versendet. Dennoch erhält man am Folgetag einen erneuten Aufruf, die E-Mail-Adresse zu bestätigen. 
+ERNEUTE BESTÄTIGUNGSMAIL WIRD GESENDET
+Löst Verwirrung aus. Hat etwas im Prozess nicht funktioniert?
+80
+
+81
+HEATMAP - GEWINNSPIEL
+Welche Elemente erregen die meiste Aufmerksamkeit?
+Nutzer lesen nicht den gesamten Text. CTA-Button erhält aber (im Vergl. zu anderen Seiten) relativ viel Aufmerksamkeit. 
+
+Welche Elemente erregen die meiste Aufmerksamkeit? Erfährt der wichtigste Inhalt auf der Landingpage genügend Aufmerksamkeit? Bei LPs z.B. Verkaufsargumente?
+
+
+Wahrnehmung in den ersten Sekunden
+82
+FOKUS MAP - GEWINNSPIEL
+Text kürzen, damit die relevanten Infos direkt erfasst werden können und der CTA-Button “Jetzt teilnehmen” v.a. mobil nach oben rutscht.
+
+Der Clarity Score zeigt, wie klar oder unübersichtlich das Design für einen neuen Benutzer ist. Dabei werden verschiedene Aspekte Ihres Designs berücksichtigt - die Textmenge, die Textgröße und der Textkontrast, die Farbsättigung, die Anzahl der Bilder und deren Größe.
+
+Ist Ihr Design klar und leicht zu verstehen?
+Ein überladenes Design erschwert es, wichtige Elemente hervorzuheben und die Hauptbotschaft zu verstehen. Ihr Clarity Score liegt bei 75 %, was optimal ist - gute Arbeit! Sie haben eine höhere Klarheit als 60% der beliebtesten Websites
+
+
+
+Aktuell: Langer Text, CTA nicht sichtbar
+WESENTLICHES NICHT SICHTBAR
+vor allem mobil
+83
+Empfehlung: Text gekürzt, nur wesentliche Informationen enthalten, CTA sichtbar
+
+KONTAKTSEITE
+Aufmerksamkeitsanalyse
+02.6
+Unter-Kapitel in halbfett 36px
+Subline in dünn 20px
+Foliennummer max 3 Zahlen, 130px
+
+85
+HEATMAP - KONTAKTSEITE
+Welche Elemente erregen die meiste Aufmerksamkeit?
+Aufmerksamkeit verteilt sich gut auf die verschiedenen Elemente. Nutzer nehmen Kontaktmöglichkeiten direkt wahr.
+
+Welche Elemente erregen die meiste Aufmerksamkeit? Erfährt der wichtigste Inhalt auf der Landingpage genügend Aufmerksamkeit? Bei LPs z.B. Verkaufsargumente?
+
+
+Wahrnehmung in den ersten Sekunden
+86
+FOKUS MAP - KONTAKTSEITE
+Der Clarity Score zeigt, wie klar oder unübersichtlich das Design für einen neuen Benutzer ist. Dabei werden verschiedene Aspekte Ihres Designs berücksichtigt - die Textmenge, die Textgröße und der Textkontrast, die Farbsättigung, die Anzahl der Bilder und deren Größe.
+
+Ist Ihr Design klar und leicht zu verstehen?
+Ein überladenes Design erschwert es, wichtige Elemente hervorzuheben und die Hauptbotschaft zu verstehen. Ihr Clarity Score liegt bei 75 %, was optimal ist - gute Arbeit! Sie haben eine höhere Klarheit als 60% der beliebtesten Websites
+
+
+
+FORMULAR: AUSWAHL WUNSCHLAND
+verschwindet, sobald ein anderes Programm gewählt wird
+87
+
+Welche Informationen sind wirklich notwendig? Bei einer Anfrage übers Kontaktformular reicht eigentlich die Angabe der E-Mail-Adresse aus,  zumindest aus Sicht der User. Die Angabe weiterer Informationen kann die Motivation, eine Anfrage zu senden, senken.
+Kann die Handynummer als optionales Feld verwendet werden? 
+HANDYNUMMER ALS PFLICHTFELD 
+Ist die Handynummer notwendig?
+88
+
+DANKESSEITE
+Anweisungen bekommen zu wenig Aufmerksamkeit, vor allem bei Desktop
+89
+
+Bild schmaler verwenden, damit die nächsten Schritte direkt sichtbar sind. Bild sollte beibehalten werden, da das Motiv positive Emotionen weckt!
+DANKESSEITE
+Empfehlung
+90
+
+Auch wenn der Nutzer auf der Website die Bestätigung erhält, dass die Anfrage erfolgreich war, sorgt eure Bestätigungsmail nochmal für mehr Sicherheit. 
+Evtl. könnten in dieser noch eine Kopie der Anfrage mitgesendet werden, damit die Nutzer auch im Nachgang) nochmal nachsehen können, was genau sie angefragt haben.
+BESTÄTIGUNGSMAIL
+vermittelt Usern Sicherheit, dass ihre Anfrage erfolgreich war
+91
+
+SONSTIGE AUFFÄLLIGKEITEN AUF DER WEBSITE
+03
+Titel in Versalien, Halbfett, 36px
+Kapitelnummer max 2 Zahlen, ultrafett, 138px
+
+Zum Beispiel die Kategorien der Arbeit von “Freiwilligenarbeit” und “Save the Planet” in einem Submenü untergliedern. Hier könnten dann auch die möglichen Länder ergänzt werden. So deckt ihr jedes Kriterium ab, nach denen eure Zielgruppe suchen.
+ORIENTIERUNG IM MENÜ
+Gliederung von Bereichen
+93
+
+Interne Suchanfragen können Aufschluss darüber geben, ob gewisse Themen schlechter gefunden werden (Klicktiefe zu groß, schwer im Menü zu finden usw.) oder ob es Potenziale für neuen Content gibt.
+Interessant hier:
+“agb” wurde 2023 88-mal gesucht. Evtl. Hinweis dafür, dass gewisse Infos zur Buchung (Rücktritt von Buchung, Abbruch der Reise etc.) nicht gut gefunden werden. 
+ 
+INTERNE SUCHEN NUTZEN
+Was ist gefragt? Was wird evtl. nicht gut gefunden?
+94
+ Tonspur!
+Zum Rest sollten größere Bereiche geschaffen werden ggf. Option für uns mit Content Marketing weiterzuhelfen (Sehenswürdigkeiten Bali, Routen Bali, Clubs Bali usw.usf. Plus andere Länder)
+
+Sollte sich optisch von den anderen Punkten im Menü abheben!
+“JETZT BUCHEN”
+mehr hervorheben
+95
+Überlegung: “Jetzt buchen” Button im Top-Menü integrieren, sodass man nicht erst auf das Burger-Menü klicken muss.
+
+TRIP-FINDER
+Beschriftung der Angebote kürzen und präzisieren
+96
+Title wiederholt sich aktuell zu sehr mit den Infos darüber. Facts kurz und knackig vermitteln. 
+Was bereits sehr gut ist: Die Bilder vermitteln bereits die jewilige Tätigkeit (also mit Kindern, Tieren, Natruschutz etc.)
+
+TRIP-FINDER - DESKTOP
+Filter zu unscheinbar am unteren Rand
+97
+Filter oberhalb der Ergebnisse einfügen. Alternativ andere Darstellungen: “mitlaufend” links integrieren.
+
+TRIP-FINDER - DESKTOP
+Gespeicherte Favoriten nicht direkt auffindbar
+98
+Nach der Markierung der Favoriten ist schwer zu erkennen, wo man die Favoriten gesammelt anschauen kann. 
+Idee: Animieren
+Sobald der erste Favorit markiert wurde, kann oben rechts im Top-Menü das Herz aufleuchten, größer werden etc. Mittels kurzer Animation kann man Nutzer am Anfang darauf aufmerksam machen, wo die Favoriten gespeichert wurden.
+
+Titel in Versalien, halbfett, 24px
+Subline, dünn, 18px
+Bulletpoints als Pfeil, Abstand 1,5
+
+TRIP-FINDER - MOBILE
+Gespeicherte Favoriten nicht zu sehen
+99
+Top-Menü ist mobil nicht sichtbar. Erst, wenn man wieder nach oben scrollt, sieht man die gespeicherten Favoriten. 
+Idee: Mitlaufender Footer am unteren Rand
+Eine Art CTA-Balken mit einem Hinweis und Link zur Übersicht der Favoriten: “X Favoriten gespeichert”
+
+Titel in Versalien, halbfett, 24px
+Subline, dünn, 18px
+Bulletpoints als Pfeil, Abstand 1,5
+
+TRIP-FINDER
+Filter-Bezeichnungen erklären
+100
+Filter “Weitere Optionen”
+“Most Wanted Land” und “wayers Home” sind für neue Nutzer unbekannte Begriffe. Was heißt das? Sollte erklärt werden.
+Vorschlag: Kleine “?” Icons neben den Begriffen. Beim Mouse-Over erscheint ein kurzer Erklärtext.
+Titel in Versalien, halbfett, 24px
+Subline, dünn, 18px
+Bulletpoints als Pfeil, Abstand 1,5
+
+TRIP-FINDER
+Filter optimieren
+101
+Filter “Kategorien” und “Reisedauer”
+Warum kann ich diese Filter nicht nutzen? (bei W&T)
+Nur Filter anbieten, die bei der aktuellen Seite sinnvoll sind und funktionieren.
+
+
+
+Filter nach Preis fehlt
+Der Preis ist u.a. ein wichtiger Faktor für die “Kaufentscheidung”, wenn technisch möglich einen Preisregler o.ä. integrieren. 
+Titel in Versalien, halbfett, 24px
+Subline, dünn, 18px
+Bulletpoints als Pfeil, Abstand 1,5
+
+102
+TRIP-FINDER
+Hinweistext nicht direkt sichtbar
+Bei Auswahl eines Filters, der zu keinen passenden Ergebnissen führt, springt die Seite nach oben, die Reisen sind verschwunden und ein Hinweistext erscheint, der jedoch im ersten Moment nicht lesbar ist, da alles noch verschwommen ist. Erst nach dem Schließen des Filters ist der Text sichtbar.
+Empfehlung:Hinweistext sollte direkt zu sehen sein. Das Springen der Seite sollte vermieden werden, damit sich Nutzer nicht neu orientieren müssen.
+
+Texte, Überschriften, bestimmte Elemente usw. sollten auf unterschiedliche Bildschirmgrößen “reagieren” und sich entsprechend anpassen. 
+RESPONSIVITÄT
+H1 wird abgeschnitten
+103
+
+Kein Unterschied zwischen den beiden “Sozialarbeit” Auswahlmöglichkeiten erkennbar.
+BUCHUNGSPROZESS
+Drop-Down-Auswahl nicht komplett sichtbar
+104
+
+TECHNISCHE AUFFÄLLIGKEITEN
+03.1
+Unter-Kapitel in halbfett 36px
+Subline in dünn 20px
+Foliennummer max 3 Zahlen, 130px
+
+Erst nach ca. 2,5 Sekunden sind wesentliche Inhalte wie die H1 und der CTA-Button für Nutzer sichtbar und nach 2,8 Sekunden nutzbar.
+LADEZEIT REDUZIEREN
+Erst nach 2,8 Sekunden ist die Seite nutzbar (Beispiel: W&T)
+106
+Kompletten Filmstrip ansehen → https://www.webpagetest.org/video/compare.php?tests=230918_BiDcJK_545-r:2-c:0 
+
+Wie kann die Ladezeit reduziert werden? Wie können Elemente schneller geladen werden? Genaue Analyse und Einschätzung seitens der Technik notwendig. Durch Optimierung sollen keine neuen Probleme an anderer Stelle entstehen. 
+LADEZEIT OPTIMIEREN
+Mit Technik abklären!
+107
+Fokussier dich beim Termin nur auf 1-2 Beispiele, damit sie es "fühlen":
+
+
+User sollten nicht auf 404-Seiten stoßen! Wenn möglich, sollten diese immer auf passende Alternativen weitergeleitet werden. Wenn nicht möglich, dann interne Verlinkungen entfernen.
+Auf mindestens folgenden 404-Seiten wird intern verlinkt, d.h. die Nutzer landen auf einer Fehlerseite!
+https://wayers.com/de/tierschutz-richtlinien/
+https://wayers.com/de/extras/kite-surfen-sansibar/ 
+https://wayers.com/de/freiwilligenarbeit/elefanten-projekt-auf-sri-lanka/ 
+https://wayers.com/de/freiwilligenarbeit/unterrichten-von-moenchen-auf-sri-lanka/ 
+https://wayers.com/de/freiwilligenarbeit/kombi-sozialarbeit-und-wildlife-in-suedafrika/ 
+
+
+404-SEITEN VERMEIDEN
+Wenn möglich, weiterleiten
+108
+
+Nutzern wird nur ein Link zurück zu Startseite angeboten. Es sollten jedoch mehr Möglichkeiten geboten werden, passenden Content zu finden:
+Suchfunktion einbetten
+Kontaktformular verlinken
+Auf verschiedene Programme verlinken (z.B. in Kachel-Optik)
+Sonderangebote bzw. Aktionen
+usw.
+
+FEHLERSEITE OPTIMIEREN
+Nutzer nicht in eine Sackgasse führen
+109
+
+CUSTOMER JOURNEY AUF BASIS DES 7-EBENEN-MODELLS
+04
+Titel in Versalien, Halbfett, 36px
+Kapitelnummer max 2 Zahlen, ultrafett, 138px
+
+111
+Aufmerksamkeit (Awareness)
+Abwägung(Consideration)
+Kaufhandlung
+(Conversion)
+Kaufbindung
+(Retention)
+Befürtwortung (Advocacy)
+7-Ebenen-Modell
+Customer Journey
+https://gruenderplattform.de/unternehmen-gruenden/customer-journey 
+
+Relevanz:
+Keywords/Schlagworte nutzen (für Übereinstimmung mit der Suche sorgen)
+Überblick bieten (Finde ich hier überhaupt das, was ich suche?)
+Leistung erklären (eure USPs, was zeichnet euch aus?)
+
+AUFMERKSAMKEIT
+112
+Vertrauen:
+Gütesiegel, Zertifizierungen, Erfahrungsberichte, Bewertungen im sichtbaren Bereich
+Orientierung:
+CTA-Buttons klar formulieren
+Passende CTA-Buttons an den richtigen Stellen einbinden
+Stimulanz
+Emotionen durch Bilder wecken
+Einfache, verständliche Texte
+ABWÄGUNG
+Sicherheit:
+Kontaktmöglichkeiten präsent darstellen (Wohin kann ich mich bei Fragen wenden?)
+Transparenz im Prozess (Was passiert als Nächstes? Was ist der Status?)
+Komfort:
+Auswahl bei Zahlungsmethoden (Buchungsprozess)
+So wenig Infos wie möglich vom Nutzer verlangen
+Bewertung:
+“Dankesseite” mit klaren Infos und nächsten Schritten, aber auch Emotionen wecken
+Bestätigung der (Kauf-)-Entscheidung (Vorteile, Leistungen, wie geht es weiter?)
+
+KAUFHANDLUNG, KUNDENBINDUNG, BEFÜRWORTUNG
+
+INFORMATIONSSUCHE VORRANGIG MOBILE
+Conversions mit Informationsbezug werden über Mobile abgesendet
+113
+“Katalog bestellt”
+“Beratungsgespräch gebucht”
+“Kontaktanfrage gesendet”
+
+Ggf. auch Anzeichen für (Usability)-Probleme beim mobilen Buchungsprozess. Sollte auf jeden Fall nochmal näher geprüft werden!
+BUCHUNGEN FINDEN ÜBERWIEGEND ÜBER DESKTOP STATT
+Ca. 77 % der User buchen über Desktop!
+114
+Tonspur!!!
+Das wäre eine ideale Gelegenheit um auf kontiniuerliches A/B Testing und Ubsability Analysen zu verweisen, um daraus etwas fortlaufendes zu kreeiren
+
+AUSBLICK
+05
+Titel in Versalien, Halbfett, 36px
+Kapitelnummer max 2 Zahlen, ultrafett, 138px
+
+Ziele: User Experience und Usability der Website verbessern
+Bessere Conversion Rates
+Größere Nutzerzufriedenheit / Loyalität 
+Detaillierte Ergebnisse als …
+Bildschirmaufzeichnungen (Video)
+Mit Audio-Kommentaren
+Schriftlichen Nachbefragungen
+Maus- & Eye-Trackings 
+Moderierte Tests mit gezielten Nachfragen
+
+
+USABILITY-TESTS
+Wie sehen echte Nutzer eure Website?
+116
+
+A/B-Tests: mehrere Versionen einer Webseite gegeneinander testen
+Multivariate Tests: verschiedene Elemente der Seite gegeneinander testen
+Weiterleitungs-Tests: zwei Seiten mit verschiedenen URLs gegeneinander testen (URL-Split-Test)
+Auswertung: sowohl in A/B-Tools wie VWO oder mit A/B-Test-Plugin von Matomo 
+
+
+HYPOTHESEN DURCH A/B-TESTS PRÜFEN
+Über A/B-Tests die beste Variante für mehr Conversions finden.
+117
+Ja könnten wir bspw. als Alternative nennen. Hier können bis zu 50k Besucher pro Monat kostenlos getestet werden. wayers hat monatlich mehr Nutzer, wenn sie da alle erfassen möchten, wirds teuer (so ab 508 €/Monat) https://vwo.com/de/pricing/
+Wir könnten aber auch mindestens auf das kostenpflichtige A/B-Test-Plugin von Matomo verweisen. Ich habe hier allerdings keine Erfahrung bisher mit gesammelt. https://plugins.matomo.org/AbTesting
+
+Klick auf Telefonnummer bspw. im Header oder Footer (muss aber verlinkt sein)
+
+
+Klick auf E-Mail-Adressen (muss aber verlinkt sein)
+
+
+
+
+
+Kontaktmöglichkeiten
+118
+WEITERE TRACKINGMÖGLICHKEITEN UMSETZEN
+Tonspur:
+ERWEITERUNG: es gibt auch die möglichkeit komplett eigene/neue Nr. dafür zu nutzen, dann lässt es sich auch tracken. Wäre ein Upgrade der fortlaufenden Betreuung. Kein Standard der forl. Betreuung.
+Ähnlich: Unique Mails, die nur auf der Website als CTA verwendet werden, lassen bessere Rückschlüsse ziehen.
+Ich würde es auf der Tonspur mitgeben, um einfach zu zeigen, dass da noch deutlich mehr möglich ist und dann würde ich(^^) versuchen eine fortlaufende Betreuung daraus zu machen. Mit regelmäßigen Online-User-Tests, Umfragen usw. darauf basierend Hypothesen aufstellen und sie mit echten Nutzerdaten validieren (A/B Tests)
+
+Klick auf Button im Header – hiermit könnte dann auch besser nachvollzogen werden, ob sich zukünftige Änderungen im First View positiv auf die Klickrate auswirken (andere Elemente lenken ab, CTA wird auffälliger gestaltet etc.) 
+
+Klick auf Buttons, die zur gewünschten Conversion führen sollen → Bspw. im Footer “Jetzt Beratung anfragen” / “Jetzt bestellen” oder im Content-Bereich → Um besser nachvollziehen zu können, wie viele Nutzer auf die Buttons klicken und dann konvertieren.
+
+
+CTA-Buttons 
+119
+WEITERE TRACKINGMÖGLICHKEITEN UMSETZEN
+
+Sprunglinks – so könnt ihr nachvollziehen, zu welchen Themen die Nutzer am meisten direkt springen. Das Thema könnte dann z.B. weiter oben auf der Seite platziert werden.
+
+Sprunglinks
+120
+WEITERE TRACKINGMÖGLICHKEITEN UMSETZEN
+
+Die Bildauswahl auf der wayers-Website ist sehr authentisch und weckt Emotionen wie Fernweh und Vorfreude. Generell ist die Seite modern und ansprechend (also passend für die junge Zielgruppe) gestaltet, was wichtig für die Glaubwürdigkeit einer Seite ist. Auch eure zahlreichen Erfahrungsberichte und Social Media Berichte echter wayers-Reisender sind wertvoll! Daraus könnt ihr noch viele Möglichkeiten für neuen Content ziehen.
+Jedoch sind noch ein paar Potenziale, die genutzt werden sollten:
+Nutzer gezielter zur Conversion führen (klare und mehr CTAs, Nutzern das Denken abnehmen) 
+Eure USPs (wayers Homes, Betreuung usw.) mehr herausstellen und nutzen
+Weiterer Content und LPs aufbauen (z.B. Reiserouten, Tipps, aber auch verschiedene Suchkriterien abdecken (nach Ländern, Preis, Alter, Dauer usw.), User-Generated Content nutzen)
+Tracking-Konzept ausbauen, um eure User besser verstehen und ihre Wege nachvollziehen zu können
+121
+FAZIT
+wayers macht das und jenes ganz toll, aber hier und da ist noch Potenzial und Luft nach oben... so ca. 5 kurze Punkte, die das Audit abschließen - positiv und motivierend
+
+
+
+Roxeanne RieckHead of Operations
+Mail: Telefon: 
+roxi@eom.de0511 / 390 60 104
+Jelena MateraSEO-Managerin
+Mail: Telefon: 
+jelena@eom.de0711 / 21 959 136
+KONTAKT
+Für Fragen und Beratung 
+stehen wir euch gerne 
+zur Verfügung! 
+
+
+Bilder der Ansprechpartner einfügen: 
+Bild einfügen 
+Klick auf Bild zuschneiden
+Über das Auswahlfeld beim Zuschneiden > Formen > Kreis auswählen 
+der Kreis kann nun größer oder kleiner gemacht werden → wichtig: Umschalt-Taste gedrückt halten, sodass der Kreis auch wirklich rund bleibt
+
+
+DANKE
+
+EOM
+Agency
+EOM – Effektiv Online-Marketing GmbH
+eom.de/agency 
+
+
+Kontakt Nord:
+Hohenzollernstraße 49 in 30161 Hannover      hannover@eom.de | 0511 / 390 60 100
+
+Kontakt Süd: 
+Seelbergstraße 4 in 70372 Stuttgart stuttgart@eom.de | 0711 / 21 959 130 
+
+
+HAFTUNGSAUSSCHLUSS
+EOM – Effektiv Online-Marketing GmbH
+Die in dieser Präsentation dargestellten Daten und Grafiken sind geistiges Eigentum der Effektiv Online-Marketing GmbH. Die Vervielfältigung, Weitergabe und Veränderung - auch in Teilen - ist ohne Vertragsgrundlage nicht gestattet. Alle Angaben sind vertraulich und nur für den Empfängerkreis vorgesehen. Die in dieser Präsentation aufgeführten Empfehlungen basieren auf den Erfahrungen der Effektiv Online-Marketing GmbH aus anderen Projekten sowie öffentlich zugänglichen Dokumentationen von Google und der Interpretation von EOM. Google passt den Algorithmus sowie die Art und Weise wie Websites in den Suchergebnissen von Google dargestellt werden sukzessive an. EOM kann deshalb keine Garantie und keine Haftung für den Erfolg bzw. Misserfolg der Maßnahmen übernehmen.

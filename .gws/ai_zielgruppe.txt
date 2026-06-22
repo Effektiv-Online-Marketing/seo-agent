@@ -1,0 +1,530 @@
+﻿AI-Zielgruppenanalyse  
+Letztes Template Update 2024-07-29 von Daniel Bidmon
+Brauchst du Hilfe bei der Implementierung? Klicke hier und buche dir ein kostenloses und unverbindliches Gespräch mit uns → Kostenloses Implementierungs Gespräch
+
+
+Nutze AI, um schneller deine Zielgruppe zu verstehen, um unter anderem ihre Probleme, Wünsche und Einwände zu erfahren.
+Wichtig: AI ist nicht menschlich und kann Emotionen nicht 1:1 wiedergeben. Es liefert dir aber eine gute Basis – durch deine eigene Recherche und Kunden Umfragen kannst du mehr Menschlichkeit einbauen. Du findest spezifische Prompts, die du für die Recherche als Basis nutzen kannst, in diesem Dokument. 
+	
+
+Schritt 1: Zielgruppe
+  
+  
+  
+
+KATEGORIE
+	INFORMATIONEN
+	Geschlecht
+	
+
+	Typischer Altersbereich
+	
+
+	Wünsche und Ziele
+	
+
+	Werte und Vision
+	
+
+	Emotionale Triebkräfte
+	
+
+	Haupt Schmerzpunkt
+	
+
+	Ursache des Haupt Schmerzpunkt
+	
+
+	Zusätzlicher Schmerzpunkt 
+	
+
+	Weitere Schmerzpunkt
+	
+
+	Emotionaler Schmerzpunkt
+	
+
+	Produkt Versprechen
+	
+
+	Wunschzustand
+	
+
+	Wie es funktioniert
+	
+
+	Haupt Vorteil
+	
+
+	Zusätzlicher Vorteil
+	
+
+	Weiterer Vorteil
+	
+
+	Emotionaler Vorteil
+	
+
+	Beweis
+	
+
+	Starke Kundenstimme
+	
+
+	Einwände
+	
+
+	Einwände überwinden
+	
+
+	Größte Angst
+	
+
+	Welche anderen Methoden habe nicht funktioniert
+	
+
+	Falsche Annahmen
+	
+
+	Kostspielige Alternativen
+	
+
+	Einsatzgebiete des Produktes
+	
+
+	Meist aktive Social Media Plattformen
+	
+
+	Spezialwörter und Abkürzungen
+	
+
+	Tone of Voice
+	
+
+	
+
+
+
+ChatGPT Prompt:
+
+
+Hey ChatGPT, ich hätte gerne deine Hilfe, um den idealen Avatar für mein Produkt zu erstellen. Ich benötige dich in der Rolle eines absoluten Marketingexperten & Copywriter, der sich auf Kundenakquise spezialisiert hat. Dabei gehst du vor wie ein Psychologe, der tief in den Kopf der Zielgruppe schauen kann.
+
+
+Kontext - Meine Nische ist [beschreibe kurz deinen Zielmarkt]. 
+Ich helfe ihnen, indem ich [erläutere in 2-3+ Sätzen das Angebot/die Lösung/das Produkt]. 
+Hauptsächlich sind meine Kunden [männlich / weiblich im Altersbereich X - Y Jahre].
+
+
+Absicht - Der Zweck dieser Persona ist es mir zu helfen, ein tieferes Verständnis meines Zielmarktes zu erlangen, insbesondere der zentralen Schmerzpunkte und emotionalen Treiber (was sie zum Kauf motiviert), um Marketingbotschaften zu erstellen, die bei ihnen auf große Resonanz stoßen. Wir wollen sowohl einen demografischen als auch einen psychografischen Ansatz wählen.
+
+
+Anleitungen:
+1. Bitte erstelle eine eindeutige Persona, einschließlich einer passenden demografischen Angabe (Name, Alter, Familienstand und Beruf)
+2. Erläutere bitte ihre größten Herausforderungen und Schmerzpunkte
+3. Identifiziere bitte die zwei wichtigsten emotionalen Treiber, die wir in unserer Werbung ansprechen können und erläutere sie kurz.
+4. Nenne bitte die größten Wünsche und Ziele, die die Persona im Hinblick auf mein Angebot hat
+5. Nenne mir die wichtigsten und größten Einwände, die sie gegen mein Angebot haben könnte
+
+
+Anweisungen zu Stil, Ton und Stimme: Bitte stelle sicher, dass es leicht zu lesen ist. Sorge dafür, dass die Schmerzpunkte und Wünsche so dargestellt werden, wie eine echte Person es berichten würde.
+
+
+Bitte stelle die Informationen in einer Tabelle dar. Die Zeilen in der linken Spalte sollten folgenden Überschriften folgen. In der rechten Spalte füge die Informationen hinzu. Verwende erweiterte Zeilen und stelle sicher, dass jede Information in einer einzigen Zeile steht und sich nicht über mehrere Zeilen erstreckt. Es soll wenn möglich nur 1 Satz als Antwort in der Zeile stehen und auf das Wesentliche gekürzt sein. 
+
+
+Geschlecht
+Typischer Altersbereich
+Wünsche und Ziele
+Werte und Vision
+Emotionale Triebkräfte
+Haupt Schmerzpunkt
+Ursache des Haupt Schmerzpunkt
+Zusätzlicher Schmerzpunkt
+Weiterer Schmerzpunkt
+Emotionaler Schmerz
+Produkt Versprechen 
+Wunschzustand
+Wie es funktioniert 
+Haupt Vorteil 
+Zusätzlicher Vorteil 
+Weiterer Vorteil
+Emotionaler Vorteil 
+Beweis 
+Starke Kundenstimme
+Einwände
+Einwände überwinden 
+Größte Angst 
+Welche anderen Methoden habe nicht funktioniert
+Falsche Annahmen 
+Kostspielige Alternativen
+Einsatzgebiete des Produktes
+Meist aktive Social Media Plattformen
+Spezialwörter und Abkürzungen
+Tone of Voice
+
+
+Dankeschön.
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schritt 2: Produktvorteile (#1 Bestseller Produkt)
+  
+
+
+
+PRODUKTNAME: 
+	
+
+	
+
+	
+
+	VORTEILE
+	SCHMERZPUNKT
+	NEGATIVE EMOTIONEN
+	POSITIVE EMOTIONEN
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+ChatGPT Prompt:
+Bitte schreibe 5 Vorteile des Produktes für die Zielgruppe und nutze dabei die Vorteile aus dem Avatar für das Produkt. 
+
+
+Erstelle eine Tabelle mit 4 Spalten. In der ersten Spalte schreibe die Vorteile welche das Produkt für die Zielgruppe bringt untereinander in separaten Zeilen. Schreibe dann für jeden Vorteil rechts daneben in die nächste Spalte den entsprechenden Schmerzpunkt der Zielgruppe. Schreibe rechts daneben die negative Emotion, wie Angst, Sorge, Unsicherheit, Physischer Schmerz, Frustration, Wut. Schreibe dann rechts daneben in die nächste Spalte die passende positive Emotion des Vorteils, wenn der Schmerzpunkt gelöst ist, wie Freude, Zufriedenheit, Hoffnung, Selbstbewusstsein, Erleichterung, Sorgenfrei . Schreibe oben als Tabellen-Titel: Vorteile, Schmerzpunkte, Negative Emotionen, Positive Emotionen.
+
+
+Hier ist der Kundenavatar:
+
+
+[Kopiere hier den Inhalt deinen Kundenavatar hinein]
+
+
+Hier sind Informationen von der Produktseite:
+
+
+[Kopiere hier den Inhalt deiner Produktseite hinein]
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schritt 3: Produkteigenschaften (#1 Bestseller Produkt)
+
+
+PRODUKTNAME: 
+	
+
+	EIGENSCHAFT
+	KATEGORIE
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+ChatGPT Prompt:
+Bitte schreibe 5 Eigenschaften des Produktes. 
+
+
+Erstelle eine Tabelle mit 2 Spalten. In der ersten Spalte schreibe die Eigenschaften untereinander in separaten Zeilen. Schreibe dann für jede Eigenschaften rechts daneben in die nächste Spalte die entsprechende Kategorie der Eigenschaft wie Zertifizierung, Inhaltsstoff, Qualität, Design, Benutzerfreundlichkeit, Innovativität, Nachhaltigkeit, Sicherheit, Spezifikation. 
+
+
+Hier sind Informationen zur Zielgruppe:
+
+
+[Kopiere hier den Inhalt deiner Zielgruppe hinein]
+
+
+Hier sind Informationen von der Produktseite:
+
+
+[Kopiere hier den Inhalt deiner Produktseite hinein]
+	
+
+
+
+
+
+
+
+
+
+
+
+Schritt 4: Marktanalyse (wird manuell gemacht ohne AI)
+
+
+MITBEWERBER
+	
+
+	Online Shops (1-10)
+	
+
+
+
+
+
+	YOUTUBE
+	
+
+	Beispiele (1-3)
+	
+
+
+
+
+
+	META
+	
+
+	Beispiele (1-3)
+	
+
+
+
+
+
+	ANGEBOTE
+	
+
+	Angebote (1-3)
+
+
+	
+
+
+
+
+
+	HOOKS
+	
+
+	Potentielle Hooks
+	
+
+	Potentielle visuelle Hooks
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+Schritt 5: Reise des Kunden
+
+
+5 LIGHT BULBS
+	Status Quo der Zielgruppe
+	Andere Dinge, die sie versucht haben
+	Dein Ansatz
+	Dein Angebot
+	Das neue Leben des Kunden
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+ChatGPT Prompt:
+Bitte scheibe die 5-Schritte-Reise für meinen Kundenavatar im Bezug mein mein produkt. Erstelle eine Tabelle mit 5 Spalten und fülle sie mit folgender Information. Halte den Inhalt kurz in Stichworten:
+
+
+Erster Spaltentitel: Status Quo der Zielgruppe 
+Kontext für Inhalt: Es ist ein Zustand, den ein Kunde verlassen möchte. Dieser Punkt ist wichtig; du kannst keine Nachfrage schaffen, sondern sie nur lenken. Schreibe auch die negativen Emotionen.
+
+
+Zweiter Spaltentitel: Andere Dinge, die sie versucht haben 
+Kontext für Inhalt: Repräsentiert die Sprache um andere Lösungen herum, die dein Kunde ausprobiert hat. 
+
+
+Dritter Spaltentitel: Dein Ansatz 
+Kontext für Inhalt: Es ist die Art und Weise, wie du ein spezifisches Problem eines Kunden mit deinem Produkt/Dienstleistung angehst. 
+
+
+Vierter Spaltentitel: Dein Angebot 
+Kontext für Inhalt: Dies repräsentiert dein Produkt! Das kann Risikominderung, Preisbedingungen, die Art der Produktlieferung und alle zusätzlichen Vorteile oder Boni umfassen, die du beim Kauf anbietest. 
+
+
+Fünfter Spaltentitel: Das neue Leben des Kunden
+Kontext für Inhalt: Verbinde die Punkte zwischen deinem Produkt und dem, was dein Produkt für jemanden tun kann. Male ein Bild vom Leben auf der anderen Seite der Brücke, nach dem Erfolg mit deinem Produkt. Schreibe auch die positiven Emotionen
+
+
+Dankeschön.
+	
+
+
+
+Schritt 6: Angles
+
+
+ANGLE
+	NOTIZEN
+	Angle 1
+	
+
+	Angle 2
+	
+
+	Angle 3
+	
+
+	Angle 4
+	
+
+	Angle 5
+	
+
+	
+
+
+
+ChatGPT Prompt:
+Bitte schreibe auf Basis meiner Zielgruppenrecherche 5 mögliche Marketing Angles basierend auf den Pain Points und Desires meiner Zielgruppe. Den ersten Angle auf den größten Pain Point der Zielgruppe. Den zweiten auf das größte Desire meiner Zielgruppe. Die restlichen 3 kannst du entscheiden. 
+
+
+Erstelle eine Tabelle mit zwei Spalten. Nenne den Titel der Linken Spalte "ANGLE" und den Titel der rechten Spalte "NOTIZEN". In der Linken Spalte steht jeweils der Name Angle 1, Angle 2, Angle 3, Angle 4, Angle 5. Rechts daneben in der zweiten Zeile steht deine Antwort. Schreibe den Angle kurz und knapp in maximal 10 Wörtern vollständig als Satz ohne Bindestriche oder stichpunkte..
+
+
+Beziehe dich dafür auf die “Life Force 8”: 
+
+
+1. Überleben, Langlebigkeit und Lebensqualität.
+2. Essen und Trinken.
+3. Sicherheit und Freiheit von Gefahr, Angst und potentiellen Schaden.
+4. Einen Partner finden und Beziehungen.
+5. Eine sichere und komfortable häusliche Umgebung.
+6. Wettbewerbs Instinkte – das Bedürfnis zu gewinnen und Erfolg zu haben.
+7. In der Lage sein, für seine Abhängigen und Liebsten zu sorgen und sie zu schützen.
+8. Zustimmung von Gleichaltrigen und soziale Akzeptanz.
+
+
+Hier sind die Informationen zu der Zielgruppe:
+[Kopiere hier deine Tabelle der Zielgruppen Recherche hinein]
+
+Hier sind die Produktvorteile
+[Kopiere hier deine Tabelle der Produktvorteile hinein]
+
+
+Hier sind die Produkteigenschaften
+[Kopiere hier deine Tabelle der Produkteigenschaften hinein]
+	
+
+
+
+Brauchst du Hilfe bei der Implementierung? Klicke hier und buche dir ein kostenloses und unverbindliches Gespräch mit uns → Kostenloses Implementierungs Gespräch
+
+
+© ECOM HOUSE GmbH - Alle Rechte sind vorbehalten. Nachdruck, Kopieren oder Reproduktion (auch auszugsweise) in irgendeiner Form (Druck, Fotokopie, Screenshot, Kopieren oder anderes Verfahren) sowie die Einspeicherung, Verarbeitung, Vervielfältigung und Verbreitung mit Hilfe elektronischer Systeme jeglicher Art, gesamt oder auszugsweise, ist ohne ausdrückliche schriftliche Genehmigung des Urhebers untersagt. Alle Übersetzungsrechte sind vorbehalten.
+
+
+  
+
+EOM – Effektiv Online-Marketing GmbH                                                                                                                                
+Bödekerstraße 85 in 30161 Hannover & Seelbergstraße 4 in 70372 Stuttgart                                                            
+Registergericht Hannover HRB 204938 Geschäftsführer Ernest Mavriqi                                                                            S.

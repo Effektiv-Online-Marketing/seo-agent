@@ -64,4 +64,4 @@ status: aktiv
 - monday-Boards nicht direkt durchsuchbar -> Task-Status unverifiziert
 
 ## Verwandt
-[[SEO-Methodik]] · [[Reporting-Standards]] · [[Schreibstil]] · [[VHV]]
+[[NIBE — Schreibstil]] · [[NIBE — Doc-Aufbau]] · [[SEO-Methodik]] · [[Reporting-Standards]] · [[Schreibstil]] · [[VHV]]
